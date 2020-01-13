@@ -1,0 +1,2 @@
+pit.c:41:6:Pit_init	8	static
+pit.c:65:6:Pit1_isrv	8	static

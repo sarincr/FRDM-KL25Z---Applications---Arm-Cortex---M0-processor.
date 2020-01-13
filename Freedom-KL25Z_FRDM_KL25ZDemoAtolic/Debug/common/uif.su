@@ -1,0 +1,7 @@
+uif.c:47:1:get_line	24	static
+uif.c:92:1:make_argv	32	static
+uif.c:152:1:run_cmd	64	static
+uif.c:200:1:get_value	32	static
+uif.c:219:1:uif_cmd_help	48	static
+uif.c:239:1:uif_cmd_set	24	static
+uif.c:284:1:uif_cmd_show	24	static

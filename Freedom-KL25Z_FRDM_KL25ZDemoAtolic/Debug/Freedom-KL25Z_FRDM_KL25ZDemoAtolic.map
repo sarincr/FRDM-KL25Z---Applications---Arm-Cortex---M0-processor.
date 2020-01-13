@@ -1,0 +1,2237 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+                              common/printf.o (__aeabi_uidiv)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+                              common/printf.o (__aeabi_idiv)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+                              drivers/mcg/mcg.o (__aeabi_f2uiz)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+                              drivers/mcg/mcg.o (__aeabi_fdiv)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+                              drivers/mcg/mcg.o (__aeabi_fmul)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o) (__aeabi_fsub)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(fixsfsi.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o) (__aeabi_f2iz)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+                              drivers/mcg/mcg.o (__aeabi_i2f)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o) (__aeabi_fcmpge)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_clzsi2.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o) (__clzsi2)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o) (__gesf2)
+/opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+                              /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o) (__lesf2)
+
+Allocating common symbols
+Common symbol       size              file
+
+gu16TSICount        0x20              src/tsi/TSIDrv.o
+ptr_next_task       0x4               src/task_mgr/task_mgr.o
+gu8EP3_OUT_EVEN_Buffer
+                    0x20              src/usb/usb.o
+gu8IN_Counter       0x1               src/usb/usb.o
+ti_tsi1             0x2               src/global.o
+mcg_clk_hz          0x4               cpu/sysinit.o
+ongoing_elec        0x1               src/tsi/TSIDrv.o
+OUT_EndAddress      0x4               src/usb/ring_buffer.o
+accel_x             0x2               src/FRDM_KL25ZDemo.o
+gu8EP1_OUT_EVEN_Buffer
+                    0x20              src/usb/usb.o
+ti_fall             0x2               src/global.o
+yz_mag              0x4               src/angle_calculation/angle_cal.o
+adc_sample          0x2               src/global.o
+core_clk_khz        0x4               cpu/sysinit.o
+cat                 0x4               src/angle_calculation/angle_cal.o
+gu16Baseline        0x20              src/tsi/TSIDrv.o
+Setup_Pkt           0x4               src/usb/usb.o
+gu8EP1_OUT_ODD_Buffer
+                    0x20              src/usb/usb.o
+gu8HALT_EP          0x1               src/usb/usb.o
+xy_angle            0x4               src/angle_calculation/angle_cal.o
+OUT_SciPointer      0x4               src/usb/ring_buffer.o
+gu8USB_PingPong_flags
+                    0x1               src/usb/usb.o
+xz_mag              0x4               src/angle_calculation/angle_cal.o
+gu8EP2_IN_ODD_Buffer
+                    0x20              src/usb/usb.o
+gu8Status           0x2               src/usb/usb.o
+gu8EP1_IN_ODD_Buffer
+                    0x20              src/usb/usb.o
+gu8EP0_OUT_ODD_Buffer
+                    0x20              src/usb/usb.o
+ti_test_adc         0x2               src/global.o
+periph_clk_khz      0x4               cpu/sysinit.o
+base_time125m       0x2               src/global.o
+ti_delay            0x2               src/global.o
+gu8USB_Toogle_flags
+                    0x1               src/usb/usb.o
+uart0_clk_khz       0x4               cpu/sysinit.o
+accel_y             0x2               src/FRDM_KL25ZDemo.o
+fall_input          0x1               src/angle_calculation/angle_cal.o
+gu8EP3_IN_EVEN_Buffer
+                    0x20              src/usb/usb.o
+OUT_StartAddress    0x4               src/usb/ring_buffer.o
+arr_medianas        0x6c              src/angle_calculation/angle_cal.o
+LineCoding          0x8               src/usb/usb_cdc.o
+resultz             0x2               src/FRDM_KL25ZDemo.o
+OUT_UsbPointer      0x4               src/usb/ring_buffer.o
+i                   0x4               drivers/pmc/pmc.o
+gu8EP1_IN_EVEN_Buffer
+                    0x20              src/usb/usb.o
+pit1_isrv_count     0x2               src/global.o
+gu16Delta           0x20              src/tsi/TSIDrv.o
+resp_ptr_next_task  0x4               src/task_mgr/task_mgr.o
+gu8USB_Flags        0x1               src/usb/usb.o
+resultx             0x2               src/FRDM_KL25ZDemo.o
+xy_mag              0x4               src/angle_calculation/angle_cal.o
+ti_print            0x2               src/global.o
+CDC_OUT_Data        0x80              src/usb/usb_cdc.o
+Z_acc               0x4               src/angle_calculation/angle_cal.o
+gu8BufferOverFlow   0x1               src/usb/ring_buffer.o
+gu8USB_Buffer       0x40              src/FRDM_KL25ZDemo.o
+X_acc               0x4               src/angle_calculation/angle_cal.o
+gu8Interface        0x1               src/usb/usb.o
+gu8EP2_OUT_EVEN_Buffer
+                    0x20              src/usb/usb.o
+gu8USBClearFlags    0x1               src/usb/usb.o
+gu8EP0_IN_ODD_Buffer
+                    0x20              src/usb/usb.o
+yz_angle            0x4               src/angle_calculation/angle_cal.o
+gu8EP0_OUT_EVEN_Buffer
+                    0x20              src/usb/usb.o
+gu8USB_State        0x1               src/usb/usb.o
+gu8Dummy            0x1               src/usb/usb.o
+gu8EP2_IN_EVEN_Buffer
+                    0x20              src/usb/usb.o
+gu8BufferMaxSize    0x1               src/usb/ring_buffer.o
+tBDTtable           0x80              src/usb/usb.o
+ti_console          0x2               src/global.o
+pu8IN_DataPointer   0x4               src/usb/usb.o
+ti_tsi0             0x2               src/global.o
+mcg_clk_khz         0x4               cpu/sysinit.o
+offset              0x4               src/angle_calculation/angle_cal.o
+drs_val             0x1               drivers/mcg/mcg.o
+dmx32_val           0x1               drivers/mcg/mcg.o
+gu8EP0_IN_EVEN_Buffer
+                    0x20              src/usb/usb.o
+Y_acc               0x4               src/angle_calculation/angle_cal.o
+accel_z             0x2               src/FRDM_KL25ZDemo.o
+resulty             0x2               src/FRDM_KL25ZDemo.o
+xz_angle            0x4               src/angle_calculation/angle_cal.o
+gu8EP3_IN_ODD_Buffer
+                    0x20              src/usb/usb.o
+ti_task             0x2               src/global.o
+ti_led              0x2               src/global.o
+aux1                0x1               src/FRDM_KL25ZDemo.o
+pll_clk_khz         0x4               cpu/sysinit.o
+ti_accel_sampling   0x2               src/global.o
+gu8EP3_OUT_ODD_Buffer
+                    0x20              src/usb/usb.o
+gu8EP2_OUT_ODD_Buffer
+                    0x20              src/usb/usb.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+ .data          0x0000000000000000        0x4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+ .text          0x0000000000000000        0x0 common/alloc.o
+ .data          0x0000000000000000        0x0 common/alloc.o
+ .bss           0x0000000000000000        0x0 common/alloc.o
+ .bss.base      0x0000000000000000       0x10 common/alloc.o
+ .bss.freep     0x0000000000000000        0x4 common/alloc.o
+ .text.free     0x0000000000000000       0xc0 common/alloc.o
+ .text.malloc   0x0000000000000000       0xcc common/alloc.o
+ .debug_info    0x0000000000000000      0x1b9 common/alloc.o
+ .debug_abbrev  0x0000000000000000      0x110 common/alloc.o
+ .debug_aranges
+                0x0000000000000000       0x28 common/alloc.o
+ .debug_ranges  0x0000000000000000       0x18 common/alloc.o
+ .debug_line    0x0000000000000000       0xad common/alloc.o
+ .debug_str     0x0000000000000000      0x207 common/alloc.o
+ .comment       0x0000000000000000       0x7d common/alloc.o
+ .debug_frame   0x0000000000000000       0x50 common/alloc.o
+ .ARM.attributes
+                0x0000000000000000       0x32 common/alloc.o
+ .text          0x0000000000000000        0x0 common/assert.o
+ .data          0x0000000000000000        0x0 common/assert.o
+ .bss           0x0000000000000000        0x0 common/assert.o
+ .rodata.ASSERT_FAILED_STR
+                0x0000000000000000       0x23 common/assert.o
+ .text.assert_failed
+                0x0000000000000000       0x44 common/assert.o
+ .debug_info    0x0000000000000000       0xe9 common/assert.o
+ .debug_abbrev  0x0000000000000000       0x95 common/assert.o
+ .debug_aranges
+                0x0000000000000000       0x20 common/assert.o
+ .debug_ranges  0x0000000000000000       0x10 common/assert.o
+ .debug_line    0x0000000000000000       0x5e common/assert.o
+ .debug_str     0x0000000000000000      0x1d3 common/assert.o
+ .comment       0x0000000000000000       0x7d common/assert.o
+ .debug_frame   0x0000000000000000       0x30 common/assert.o
+ .ARM.attributes
+                0x0000000000000000       0x32 common/assert.o
+ .text          0x0000000000000000        0x0 common/io.o
+ .data          0x0000000000000000        0x0 common/io.o
+ .bss           0x0000000000000000        0x0 common/io.o
+ .text.in_char  0x0000000000000000       0x18 common/io.o
+ .text.char_present
+                0x0000000000000000       0x18 common/io.o
+ .text          0x0000000000000000        0x0 common/memtest.o
+ .data          0x0000000000000000        0x0 common/memtest.o
+ .bss           0x0000000000000000        0x0 common/memtest.o
+ .text.memTestDataBus
+                0x0000000000000000       0x38 common/memtest.o
+ .text.memTestAddressBus
+                0x0000000000000000      0x10c common/memtest.o
+ .text.memTestDevice
+                0x0000000000000000       0xcc common/memtest.o
+ .debug_info    0x0000000000000000      0x165 common/memtest.o
+ .debug_abbrev  0x0000000000000000       0x90 common/memtest.o
+ .debug_aranges
+                0x0000000000000000       0x30 common/memtest.o
+ .debug_ranges  0x0000000000000000       0x20 common/memtest.o
+ .debug_line    0x0000000000000000      0x124 common/memtest.o
+ .debug_str     0x0000000000000000      0x1b3 common/memtest.o
+ .comment       0x0000000000000000       0x7d common/memtest.o
+ .debug_frame   0x0000000000000000       0x70 common/memtest.o
+ .ARM.attributes
+                0x0000000000000000       0x32 common/memtest.o
+ .text          0x0000000000000000        0x0 common/printf.o
+ .data          0x0000000000000000        0x0 common/printf.o
+ .bss           0x0000000000000000        0x0 common/printf.o
+ .text          0x0000000000000000        0x0 common/queue.o
+ .data          0x0000000000000000        0x0 common/queue.o
+ .bss           0x0000000000000000        0x0 common/queue.o
+ .text.queue_init
+                0x0000000000000000       0x16 common/queue.o
+ .text.queue_isempty
+                0x0000000000000000       0x1a common/queue.o
+ .text.queue_add
+                0x0000000000000000       0x42 common/queue.o
+ .text.queue_remove
+                0x0000000000000000       0x30 common/queue.o
+ .text.queue_peek
+                0x0000000000000000       0x14 common/queue.o
+ .text.queue_move
+                0x0000000000000000       0x50 common/queue.o
+ .debug_info    0x0000000000000000      0x1dc common/queue.o
+ .debug_abbrev  0x0000000000000000      0x102 common/queue.o
+ .debug_aranges
+                0x0000000000000000       0x48 common/queue.o
+ .debug_ranges  0x0000000000000000       0x38 common/queue.o
+ .debug_line    0x0000000000000000       0xb9 common/queue.o
+ .debug_str     0x0000000000000000      0x21a common/queue.o
+ .comment       0x0000000000000000       0x7d common/queue.o
+ .debug_frame   0x0000000000000000       0xd0 common/queue.o
+ .ARM.attributes
+                0x0000000000000000       0x32 common/queue.o
+ .text          0x0000000000000000        0x0 common/startup.o
+ .data          0x0000000000000000        0x0 common/startup.o
+ .bss           0x0000000000000000        0x0 common/startup.o
+ .text          0x0000000000000000        0x0 common/stdlib.o
+ .data          0x0000000000000000        0x0 common/stdlib.o
+ .bss           0x0000000000000000        0x0 common/stdlib.o
+ .text.isspace  0x0000000000000000       0x22 common/stdlib.o
+ .text.isalnum  0x0000000000000000       0x3a common/stdlib.o
+ .text.isdigit  0x0000000000000000       0x22 common/stdlib.o
+ .text.isupper  0x0000000000000000       0x22 common/stdlib.o
+ .text.strcasecmp
+                0x0000000000000000       0xae common/stdlib.o
+ .text.strncasecmp
+                0x0000000000000000       0xba common/stdlib.o
+ .text.strtoul  0x0000000000000000      0x15a common/stdlib.o
+ .text.strcat   0x0000000000000000       0x56 common/stdlib.o
+ .text.strncat  0x0000000000000000       0x68 common/stdlib.o
+ .text.strcpy   0x0000000000000000       0x48 common/stdlib.o
+ .text.strncpy  0x0000000000000000       0x5a common/stdlib.o
+ .text.strcmp   0x0000000000000000       0x4c common/stdlib.o
+ .text.strncmp  0x0000000000000000       0x66 common/stdlib.o
+ .text.memcpy   0x0000000000000000       0x82 common/stdlib.o
+ .text.memset   0x0000000000000000       0x3e common/stdlib.o
+ .text          0x0000000000000000        0x0 common/uif.o
+ .data          0x0000000000000000        0x0 common/uif.o
+ .bss           0x0000000000000000        0x0 common/uif.o
+ .rodata.HELPMSG
+                0x0000000000000000       0x18 common/uif.o
+ .rodata.INVARG
+                0x0000000000000000       0x1d common/uif.o
+ .rodata.INVALUE
+                0x0000000000000000       0x1a common/uif.o
+ .rodata.INVCMD
+                0x0000000000000000       0x1c common/uif.o
+ .rodata.HELPFORMAT
+                0x0000000000000000       0x12 common/uif.o
+ .rodata.SYNTAX
+                0x0000000000000000       0x1f common/uif.o
+ .rodata.INVOPT
+                0x0000000000000000       0x25 common/uif.o
+ .rodata.OPTFMT
+                0x0000000000000000        0x7 common/uif.o
+ .bss.cmdline1  0x0000000000000000       0x50 common/uif.o
+ .bss.cmdline2  0x0000000000000000       0x50 common/uif.o
+ .text.get_line
+                0x0000000000000000       0xb2 common/uif.o
+ .text.make_argv
+                0x0000000000000000       0xa4 common/uif.o
+ .text.run_cmd  0x0000000000000000      0x140 common/uif.o
+ .text.get_value
+                0x0000000000000000       0x46 common/uif.o
+ .rodata        0x0000000000000000       0x43 common/uif.o
+ .text.uif_cmd_help
+                0x0000000000000000       0x98 common/uif.o
+ .text.uif_cmd_set
+                0x0000000000000000      0x158 common/uif.o
+ .text.uif_cmd_show
+                0x0000000000000000      0x168 common/uif.o
+ .debug_info    0x0000000000000000      0x522 common/uif.o
+ .debug_abbrev  0x0000000000000000      0x1a0 common/uif.o
+ .debug_aranges
+                0x0000000000000000       0x50 common/uif.o
+ .debug_ranges  0x0000000000000000       0x40 common/uif.o
+ .debug_line    0x0000000000000000      0x1ee common/uif.o
+ .debug_str     0x0000000000000000      0x2fe common/uif.o
+ .comment       0x0000000000000000       0x7d common/uif.o
+ .debug_frame   0x0000000000000000       0xf4 common/uif.o
+ .ARM.attributes
+                0x0000000000000000       0x32 common/uif.o
+ .text          0x0000000000000000        0x0 cpu/arm_cm0.o
+ .data          0x0000000000000000        0x0 cpu/arm_cm0.o
+ .bss           0x0000000000000000        0x0 cpu/arm_cm0.o
+ .text.stop     0x0000000000000000       0x24 cpu/arm_cm0.o
+ .text.wait     0x0000000000000000       0x28 cpu/arm_cm0.o
+ .text.disable_irq
+                0x0000000000000000       0x4c cpu/arm_cm0.o
+ .text.set_irq_priority
+                0x0000000000000000       0x90 cpu/arm_cm0.o
+ .text          0x0000000000000000        0x0 cpu/nmi_isr_handler.o
+ .data          0x0000000000000000        0x0 cpu/nmi_isr_handler.o
+ .bss           0x0000000000000000        0x0 cpu/nmi_isr_handler.o
+ .text.nmi_isr  0x0000000000000000       0x64 cpu/nmi_isr_handler.o
+ .text.enable_NMI_button
+                0x0000000000000000       0x18 cpu/nmi_isr_handler.o
+ .debug_info    0x0000000000000000      0x277 cpu/nmi_isr_handler.o
+ .debug_abbrev  0x0000000000000000       0xd2 cpu/nmi_isr_handler.o
+ .debug_aranges
+                0x0000000000000000       0x28 cpu/nmi_isr_handler.o
+ .debug_ranges  0x0000000000000000       0x18 cpu/nmi_isr_handler.o
+ .debug_line    0x0000000000000000      0x161 cpu/nmi_isr_handler.o
+ .debug_str     0x0000000000000000      0x2ab cpu/nmi_isr_handler.o
+ .comment       0x0000000000000000       0x7d cpu/nmi_isr_handler.o
+ .debug_frame   0x0000000000000000       0x4c cpu/nmi_isr_handler.o
+ .ARM.attributes
+                0x0000000000000000       0x32 cpu/nmi_isr_handler.o
+ .text          0x0000000000000000        0x0 cpu/start.o
+ .data          0x0000000000000000        0x0 cpu/start.o
+ .bss           0x0000000000000000        0x0 cpu/start.o
+ .text          0x0000000000000000        0x0 cpu/sysinit.o
+ .data          0x0000000000000000        0x0 cpu/sysinit.o
+ .bss           0x0000000000000000        0x0 cpu/sysinit.o
+ .text.enable_abort_button
+                0x0000000000000000       0x2c cpu/sysinit.o
+ .text.clk_out_init
+                0x0000000000000000       0x30 cpu/sysinit.o
+ .text          0x0000000000000000        0x0 cpu/system_MKL25Z4.o
+ .data          0x0000000000000000        0x0 cpu/system_MKL25Z4.o
+ .bss           0x0000000000000000        0x0 cpu/system_MKL25Z4.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 cpu/system_MKL25Z4.o
+ .text.SystemInit
+                0x0000000000000000        0xa cpu/system_MKL25Z4.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x1ec cpu/system_MKL25Z4.o
+ .debug_info    0x0000000000000000      0x3d7 cpu/system_MKL25Z4.o
+ .debug_abbrev  0x0000000000000000      0x113 cpu/system_MKL25Z4.o
+ .debug_aranges
+                0x0000000000000000       0x28 cpu/system_MKL25Z4.o
+ .debug_ranges  0x0000000000000000       0x18 cpu/system_MKL25Z4.o
+ .debug_line    0x0000000000000000      0x195 cpu/system_MKL25Z4.o
+ .debug_str     0x0000000000000000      0x2ff cpu/system_MKL25Z4.o
+ .comment       0x0000000000000000       0x7d cpu/system_MKL25Z4.o
+ .debug_frame   0x0000000000000000       0x4c cpu/system_MKL25Z4.o
+ .ARM.attributes
+                0x0000000000000000       0x32 cpu/system_MKL25Z4.o
+ .text          0x0000000000000000        0x0 cpu/vectors.o
+ .data          0x0000000000000000        0x0 cpu/vectors.o
+ .bss           0x0000000000000000        0x0 cpu/vectors.o
+ .text.abort_isr
+                0x0000000000000000       0x28 cpu/vectors.o
+ .text.hard_fault_handler_c
+                0x0000000000000000      0x134 cpu/vectors.o
+ .text.SRTC_ISR
+                0x0000000000000000       0xb0 cpu/vectors.o
+ .text          0x0000000000000000        0x0 drivers/cmp/cmp.o
+ .data          0x0000000000000000        0x0 drivers/cmp/cmp.o
+ .bss           0x0000000000000000        0x0 drivers/cmp/cmp.o
+ .text.cmp_init
+                0x0000000000000000       0x54 drivers/cmp/cmp.o
+ .rodata        0x0000000000000000       0x89 drivers/cmp/cmp.o
+ .text.cmp0_isr
+                0x0000000000000000       0xb8 drivers/cmp/cmp.o
+ .debug_info    0x0000000000000000      0x1bd drivers/cmp/cmp.o
+ .debug_abbrev  0x0000000000000000       0xc0 drivers/cmp/cmp.o
+ .debug_aranges
+                0x0000000000000000       0x28 drivers/cmp/cmp.o
+ .debug_ranges  0x0000000000000000       0x18 drivers/cmp/cmp.o
+ .debug_line    0x0000000000000000      0x14f drivers/cmp/cmp.o
+ .debug_str     0x0000000000000000      0x250 drivers/cmp/cmp.o
+ .comment       0x0000000000000000       0x7d drivers/cmp/cmp.o
+ .debug_frame   0x0000000000000000       0x4c drivers/cmp/cmp.o
+ .ARM.attributes
+                0x0000000000000000       0x32 drivers/cmp/cmp.o
+ .text          0x0000000000000000        0x0 drivers/llwu/llwu.o
+ .data          0x0000000000000000        0x0 drivers/llwu/llwu.o
+ .bss           0x0000000000000000        0x0 drivers/llwu/llwu.o
+ .rodata        0x0000000000000000      0x4d8 drivers/llwu/llwu.o
+ .text.llwu_configure
+                0x0000000000000000      0x3d0 drivers/llwu/llwu.o
+ .text.llwu_configure_filter
+                0x0000000000000000       0xe4 drivers/llwu/llwu.o
+ .text.llwu_isr
+                0x0000000000000000      0x1e8 drivers/llwu/llwu.o
+ .debug_info    0x0000000000000000      0x540 drivers/llwu/llwu.o
+ .debug_abbrev  0x0000000000000000      0x147 drivers/llwu/llwu.o
+ .debug_aranges
+                0x0000000000000000       0x30 drivers/llwu/llwu.o
+ .debug_ranges  0x0000000000000000       0x20 drivers/llwu/llwu.o
+ .debug_line    0x0000000000000000      0x1ea drivers/llwu/llwu.o
+ .debug_str     0x0000000000000000      0x3c4 drivers/llwu/llwu.o
+ .comment       0x0000000000000000       0x7d drivers/llwu/llwu.o
+ .debug_frame   0x0000000000000000       0x6c drivers/llwu/llwu.o
+ .ARM.attributes
+                0x0000000000000000       0x32 drivers/llwu/llwu.o
+ .text          0x0000000000000000        0x0 drivers/lptmr/lptmr.o
+ .data          0x0000000000000000        0x0 drivers/lptmr/lptmr.o
+ .bss           0x0000000000000000        0x0 drivers/lptmr/lptmr.o
+ .text.time_delay_ms
+                0x0000000000000000       0x64 drivers/lptmr/lptmr.o
+ .rodata        0x0000000000000000       0xbc drivers/lptmr/lptmr.o
+ .text.lptmr_isr
+                0x0000000000000000       0x38 drivers/lptmr/lptmr.o
+ .text.lptmr_init
+                0x0000000000000000       0xd8 drivers/lptmr/lptmr.o
+ .debug_info    0x0000000000000000      0x463 drivers/lptmr/lptmr.o
+ .debug_abbrev  0x0000000000000000      0x124 drivers/lptmr/lptmr.o
+ .debug_aranges
+                0x0000000000000000       0x30 drivers/lptmr/lptmr.o
+ .debug_ranges  0x0000000000000000       0x20 drivers/lptmr/lptmr.o
+ .debug_line    0x0000000000000000      0x176 drivers/lptmr/lptmr.o
+ .debug_str     0x0000000000000000      0x384 drivers/lptmr/lptmr.o
+ .comment       0x0000000000000000       0x7d drivers/lptmr/lptmr.o
+ .debug_frame   0x0000000000000000       0x6c drivers/lptmr/lptmr.o
+ .ARM.attributes
+                0x0000000000000000       0x32 drivers/lptmr/lptmr.o
+ .text          0x0000000000000000        0x0 drivers/mcg/mcg.o
+ .data          0x0000000000000000        0x0 drivers/mcg/mcg.o
+ .bss           0x0000000000000000        0x0 drivers/mcg/mcg.o
+ .text.pee_pbe  0x0000000000000000       0xb0 drivers/mcg/mcg.o
+ .text.pbe_pee  0x0000000000000000      0x14c drivers/mcg/mcg.o
+ .text.pbe_fbe  0x0000000000000000       0xb8 drivers/mcg/mcg.o
+ .text.fbe_pbe  0x0000000000000000      0x234 drivers/mcg/mcg.o
+ .text.pbe_blpe
+                0x0000000000000000       0x64 drivers/mcg/mcg.o
+ .text.blpe_pbe
+                0x0000000000000000      0x1fc drivers/mcg/mcg.o
+ .text.blpe_fbe
+                0x0000000000000000       0xbc drivers/mcg/mcg.o
+ .text.fbe_blpe
+                0x0000000000000000       0x64 drivers/mcg/mcg.o
+ .text.fbe_fei  0x0000000000000000      0x170 drivers/mcg/mcg.o
+ .text.fei_fbe  0x0000000000000000      0x330 drivers/mcg/mcg.o
+ .text.fbe_fee  0x0000000000000000      0x12c drivers/mcg/mcg.o
+ .text.fee_fbe  0x0000000000000000       0xb0 drivers/mcg/mcg.o
+ .text.fbe_fbi  0x0000000000000000      0x288 drivers/mcg/mcg.o
+ .text.fbi_fbe  0x0000000000000000      0x340 drivers/mcg/mcg.o
+ .text.fbi_blpi
+                0x0000000000000000       0x9c drivers/mcg/mcg.o
+ .text.blpi_fbi
+                0x0000000000000000       0x9c drivers/mcg/mcg.o
+ .text.fbi_fee  0x0000000000000000      0x390 drivers/mcg/mcg.o
+ .text.fee_fbi  0x0000000000000000      0x254 drivers/mcg/mcg.o
+ .text.fbi_fei  0x0000000000000000      0x16c drivers/mcg/mcg.o
+ .text.fei_fbi  0x0000000000000000      0x218 drivers/mcg/mcg.o
+ .text.fei_fee  0x0000000000000000      0x2fc drivers/mcg/mcg.o
+ .text.fee_fei  0x0000000000000000       0xec drivers/mcg/mcg.o
+ .text.atc      0x0000000000000000      0x2a4 drivers/mcg/mcg.o
+ .text.fll_freq
+                0x0000000000000000      0x1d0 drivers/mcg/mcg.o
+ .text.what_mcg_mode
+                0x0000000000000000      0x1c4 drivers/mcg/mcg.o
+ .text.clk_monitor_0
+                0x0000000000000000       0x44 drivers/mcg/mcg.o
+ COMMON         0x0000000000000000        0x2 drivers/mcg/mcg.o
+ .text          0x0000000000000000        0x0 drivers/pmc/pmc.o
+ .data          0x0000000000000000        0x0 drivers/pmc/pmc.o
+ .bss           0x0000000000000000        0x0 drivers/pmc/pmc.o
+ .text.LVD_Initalize
+                0x0000000000000000       0x74 drivers/pmc/pmc.o
+ .text.LVD_Init
+                0x0000000000000000       0x3c drivers/pmc/pmc.o
+ .rodata        0x0000000000000000       0x4f drivers/pmc/pmc.o
+ .text.pmc_lvd_isr
+                0x0000000000000000       0x60 drivers/pmc/pmc.o
+ .debug_info    0x0000000000000000      0x165 drivers/pmc/pmc.o
+ .debug_abbrev  0x0000000000000000       0xda drivers/pmc/pmc.o
+ .debug_aranges
+                0x0000000000000000       0x30 drivers/pmc/pmc.o
+ .debug_ranges  0x0000000000000000       0x20 drivers/pmc/pmc.o
+ .debug_line    0x0000000000000000      0x165 drivers/pmc/pmc.o
+ .debug_str     0x0000000000000000      0x252 drivers/pmc/pmc.o
+ .comment       0x0000000000000000       0x7d drivers/pmc/pmc.o
+ .debug_frame   0x0000000000000000       0x6c drivers/pmc/pmc.o
+ .ARM.attributes
+                0x0000000000000000       0x32 drivers/pmc/pmc.o
+ COMMON         0x0000000000000000        0x4 drivers/pmc/pmc.o
+ .text          0x0000000000000000        0x0 drivers/rcm/rcm.o
+ .data          0x0000000000000000        0x0 drivers/rcm/rcm.o
+ .bss           0x0000000000000000        0x0 drivers/rcm/rcm.o
+ .text          0x0000000000000000        0x0 drivers/rtc/rtc.o
+ .data          0x0000000000000000        0x0 drivers/rtc/rtc.o
+ .bss           0x0000000000000000        0x0 drivers/rtc/rtc.o
+ .rodata        0x0000000000000000      0x1e0 drivers/rtc/rtc.o
+ .text.rtc_init
+                0x0000000000000000      0x188 drivers/rtc/rtc.o
+ .text.rtc_reg_report
+                0x0000000000000000       0xa0 drivers/rtc/rtc.o
+ .text.rtc_isr  0x0000000000000000       0xa4 drivers/rtc/rtc.o
+ .debug_info    0x0000000000000000      0x42d drivers/rtc/rtc.o
+ .debug_abbrev  0x0000000000000000      0x108 drivers/rtc/rtc.o
+ .debug_aranges
+                0x0000000000000000       0x30 drivers/rtc/rtc.o
+ .debug_ranges  0x0000000000000000       0x20 drivers/rtc/rtc.o
+ .debug_line    0x0000000000000000      0x1ac drivers/rtc/rtc.o
+ .debug_str     0x0000000000000000      0x361 drivers/rtc/rtc.o
+ .comment       0x0000000000000000       0x7d drivers/rtc/rtc.o
+ .debug_frame   0x0000000000000000       0x68 drivers/rtc/rtc.o
+ .ARM.attributes
+                0x0000000000000000       0x32 drivers/rtc/rtc.o
+ .text          0x0000000000000000        0x0 drivers/smc/smc.o
+ .data          0x0000000000000000        0x0 drivers/smc/smc.o
+ .bss           0x0000000000000000        0x0 drivers/smc/smc.o
+ .text.sleep    0x0000000000000000       0x28 drivers/smc/smc.o
+ .text.deepsleep
+                0x0000000000000000       0x24 drivers/smc/smc.o
+ .text.enter_wait
+                0x0000000000000000        0xe drivers/smc/smc.o
+ .text.enter_stop
+                0x0000000000000000       0x68 drivers/smc/smc.o
+ .text.enter_vlpr
+                0x0000000000000000       0xac drivers/smc/smc.o
+ .text.exit_vlpr
+                0x0000000000000000       0x5c drivers/smc/smc.o
+ .text.enter_vlps
+                0x0000000000000000       0x44 drivers/smc/smc.o
+ .text.enter_lls
+                0x0000000000000000       0x44 drivers/smc/smc.o
+ .text.enter_vlls3
+                0x0000000000000000       0x4c drivers/smc/smc.o
+ .text.enter_vlls2
+                0x0000000000000000       0x4c drivers/smc/smc.o
+ .text.enter_vlls1
+                0x0000000000000000       0x4c drivers/smc/smc.o
+ .text.enter_vlls0
+                0x0000000000000000       0xc8 drivers/smc/smc.o
+ .text.enter_vlls0_nopor
+                0x0000000000000000       0xa0 drivers/smc/smc.o
+ .debug_info    0x0000000000000000      0x464 drivers/smc/smc.o
+ .debug_abbrev  0x0000000000000000      0x1ae drivers/smc/smc.o
+ .debug_aranges
+                0x0000000000000000       0x80 drivers/smc/smc.o
+ .debug_ranges  0x0000000000000000       0x70 drivers/smc/smc.o
+ .debug_line    0x0000000000000000      0x27c drivers/smc/smc.o
+ .debug_str     0x0000000000000000      0x373 drivers/smc/smc.o
+ .comment       0x0000000000000000       0x7d drivers/smc/smc.o
+ .debug_frame   0x0000000000000000      0x1a4 drivers/smc/smc.o
+ .ARM.attributes
+                0x0000000000000000       0x32 drivers/smc/smc.o
+ .text          0x0000000000000000        0x0 drivers/uart/Serial.o
+ .data          0x0000000000000000        0x0 drivers/uart/Serial.o
+ .bss           0x0000000000000000        0x0 drivers/uart/Serial.o
+ .text.SER_PutChar
+                0x0000000000000000       0x28 drivers/uart/Serial.o
+ .text.SER_GetChar
+                0x0000000000000000       0x18 drivers/uart/Serial.o
+ .debug_info    0x0000000000000000      0x228 drivers/uart/Serial.o
+ .debug_abbrev  0x0000000000000000       0xb5 drivers/uart/Serial.o
+ .debug_aranges
+                0x0000000000000000       0x28 drivers/uart/Serial.o
+ .debug_ranges  0x0000000000000000       0x18 drivers/uart/Serial.o
+ .debug_line    0x0000000000000000      0x148 drivers/uart/Serial.o
+ .debug_str     0x0000000000000000      0x223 drivers/uart/Serial.o
+ .comment       0x0000000000000000       0x7d drivers/uart/Serial.o
+ .debug_frame   0x0000000000000000       0x4c drivers/uart/Serial.o
+ .ARM.attributes
+                0x0000000000000000       0x32 drivers/uart/Serial.o
+ .text          0x0000000000000000        0x0 drivers/uart/uart.o
+ .data          0x0000000000000000        0x0 drivers/uart/uart.o
+ .bss           0x0000000000000000        0x0 drivers/uart/uart.o
+ .text.uart_init
+                0x0000000000000000       0xbc drivers/uart/uart.o
+ .text.uart_getchar
+                0x0000000000000000       0x26 drivers/uart/uart.o
+ .text.uart_putchar
+                0x0000000000000000       0x2c drivers/uart/uart.o
+ .text.uart_getchar_present
+                0x0000000000000000       0x1c drivers/uart/uart.o
+ .text.uart0_getchar
+                0x0000000000000000       0x26 drivers/uart/uart.o
+ .text.uart0_getchar_present
+                0x0000000000000000       0x1c drivers/uart/uart.o
+ .text          0x0000000000000000        0x0 src/FRDM_KL25ZDemo.o
+ .data          0x0000000000000000        0x0 src/FRDM_KL25ZDemo.o
+ .bss           0x0000000000000000        0x0 src/FRDM_KL25ZDemo.o
+ .data.string0  0x0000000000000000       0x1d src/FRDM_KL25ZDemo.o
+ .data.string1  0x0000000000000000       0x28 src/FRDM_KL25ZDemo.o
+ .data.string2  0x0000000000000000       0x31 src/FRDM_KL25ZDemo.o
+ .data.string3  0x0000000000000000       0x3e src/FRDM_KL25ZDemo.o
+ .data.string4  0x0000000000000000        0x2 src/FRDM_KL25ZDemo.o
+ .data.strings  0x0000000000000000       0x14 src/FRDM_KL25ZDemo.o
+ .rodata.NumStrings
+                0x0000000000000000        0x4 src/FRDM_KL25ZDemo.o
+ .text          0x0000000000000000        0x0 src/I2C/hal_dev_mma8451.o
+ .data          0x0000000000000000        0x0 src/I2C/hal_dev_mma8451.o
+ .bss           0x0000000000000000        0x0 src/I2C/hal_dev_mma8451.o
+ .text          0x0000000000000000        0x0 src/I2C/hal_i2c.o
+ .data          0x0000000000000000        0x0 src/I2C/hal_i2c.o
+ .bss           0x0000000000000000        0x0 src/I2C/hal_i2c.o
+ .text.i2c_give_ack
+                0x0000000000000000       0x20 src/I2C/hal_i2c.o
+ .text.hal_i2c_deinit
+                0x0000000000000000       0x30 src/I2C/hal_i2c.o
+ .text          0x0000000000000000        0x0 src/angle_calculation/angle_cal.o
+ .data          0x0000000000000000        0x0 src/angle_calculation/angle_cal.o
+ .bss           0x0000000000000000        0x0 src/angle_calculation/angle_cal.o
+ .text          0x0000000000000000        0x0 src/angle_calculation/asin.o
+ .data          0x0000000000000000        0x0 src/angle_calculation/asin.o
+ .bss           0x0000000000000000        0x0 src/angle_calculation/asin.o
+ .text          0x0000000000000000        0x0 src/angle_calculation/median.o
+ .data          0x0000000000000000        0x0 src/angle_calculation/median.o
+ .bss           0x0000000000000000        0x0 src/angle_calculation/median.o
+ .text          0x0000000000000000        0x0 src/angle_calculation/sqrt16.o
+ .data          0x0000000000000000        0x0 src/angle_calculation/sqrt16.o
+ .bss           0x0000000000000000        0x0 src/angle_calculation/sqrt16.o
+ .text          0x0000000000000000        0x0 src/bsp/bsp_KL25.o
+ .data          0x0000000000000000        0x0 src/bsp/bsp_KL25.o
+ .bss           0x0000000000000000        0x0 src/bsp/bsp_KL25.o
+ .text          0x0000000000000000        0x0 src/freedom_gpio/freedom_gpio.o
+ .data          0x0000000000000000        0x0 src/freedom_gpio/freedom_gpio.o
+ .bss           0x0000000000000000        0x0 src/freedom_gpio/freedom_gpio.o
+ .text.input_rise
+                0x0000000000000000       0x44 src/freedom_gpio/freedom_gpio.o
+ .text.input_fall
+                0x0000000000000000       0x44 src/freedom_gpio/freedom_gpio.o
+ .text          0x0000000000000000        0x0 src/global.o
+ .data          0x0000000000000000        0x0 src/global.o
+ .bss           0x0000000000000000        0x0 src/global.o
+ .text          0x0000000000000000        0x0 src/pit/pit.o
+ .data          0x0000000000000000        0x0 src/pit/pit.o
+ .bss           0x0000000000000000        0x0 src/pit/pit.o
+ .text          0x0000000000000000        0x0 src/task_mgr/task_mgr.o
+ .data          0x0000000000000000        0x0 src/task_mgr/task_mgr.o
+ .bss           0x0000000000000000        0x0 src/task_mgr/task_mgr.o
+ .text          0x0000000000000000        0x0 src/tsi/TSIDrv.o
+ .data          0x0000000000000000        0x0 src/tsi/TSIDrv.o
+ .bss           0x0000000000000000        0x0 src/tsi/TSIDrv.o
+ .text.TSI_SimpleApp
+                0x0000000000000000       0x3c src/tsi/TSIDrv.o
+ .rodata        0x0000000000000000       0x39 src/tsi/TSIDrv.o
+ .text.TSI_SliderApp
+                0x0000000000000000      0x14c src/tsi/TSIDrv.o
+ .text          0x0000000000000000        0x0 src/usb/ring_buffer.o
+ .data          0x0000000000000000        0x0 src/usb/ring_buffer.o
+ .bss           0x0000000000000000        0x0 src/usb/ring_buffer.o
+ .text.Buffer_Request
+                0x0000000000000000       0xe4 src/usb/ring_buffer.o
+ .text          0x0000000000000000        0x0 src/usb/usb.o
+ .data          0x0000000000000000        0x0 src/usb/usb.o
+ .bss           0x0000000000000000        0x0 src/usb/usb.o
+ .rodata.Device_Qualifier
+                0x0000000000000000        0xa src/usb/usb.o
+ .rodata        0x0000000000000000        0x5 src/usb/usb.o
+ .text.USB_Testing_Read_Registers
+                0x0000000000000000       0xcc src/usb/usb.o
+ .text.USB_Testing_Write_Registers
+                0x0000000000000000       0x88 src/usb/usb.o
+ .text          0x0000000000000000        0x0 src/usb/usb_cdc.o
+ .data          0x0000000000000000        0x0 src/usb/usb_cdc.o
+ .bss           0x0000000000000000        0x0 src/usb/usb_cdc.o
+ .text          0x0000000000000000        0x0 src/usb/usb_reg.o
+ .data          0x0000000000000000        0x0 src/usb/usb_reg.o
+ .bss           0x0000000000000000        0x0 src/usb/usb_reg.o
+ .rodata        0x0000000000000000       0xb1 src/usb/usb_reg.o
+ .text.USBReg_Testing
+                0x0000000000000000      0x14c src/usb/usb_reg.o
+ .debug_info    0x0000000000000000      0x2a5 src/usb/usb_reg.o
+ .debug_abbrev  0x0000000000000000       0xb4 src/usb/usb_reg.o
+ .debug_aranges
+                0x0000000000000000       0x20 src/usb/usb_reg.o
+ .debug_ranges  0x0000000000000000       0x10 src/usb/usb_reg.o
+ .debug_line    0x0000000000000000      0x13a src/usb/usb_reg.o
+ .debug_str     0x0000000000000000      0x2c6 src/usb/usb_reg.o
+ .comment       0x0000000000000000       0x7d src/usb/usb_reg.o
+ .debug_frame   0x0000000000000000       0x2c src/usb/usb_reg.o
+ .ARM.attributes
+                0x0000000000000000       0x32 src/usb/usb_reg.o
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000       0x30 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+ .text          0x0000000000000000      0x290 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+ .rodata        0x0000000000000000       0x80 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+ .debug_frame   0x0000000000000000       0x3c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+ .text          0x0000000000000000      0x240 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+ .rodata        0x0000000000000000       0x40 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000000       0x3c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+ .text          0x0000000000000000      0x338 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+ .debug_frame   0x0000000000000000       0x38 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+ .text          0x0000000000000000       0x40 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(fixsfsi.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(fixsfsi.o)
+ .text          0x0000000000000000       0xa0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+ .text          0x0000000000000000       0x74 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .text          0x0000000000000000       0x3c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000       0x4c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+ .debug_frame   0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+ .text          0x0000000000000000       0x80 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+ .debug_frame   0x0000000000000000       0x30 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+ .text          0x0000000000000000       0x84 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+ .debug_frame   0x0000000000000000       0x30 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+ .text          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtend.o
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtend.o
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtend.o
+ .text          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtn.o
+ .data          0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtn.o
+ .bss           0x0000000000000000        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000020000 xr
+RAM              0x000000001ffff000 0x0000000000004000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+LOAD common/alloc.o
+LOAD common/assert.o
+LOAD common/io.o
+LOAD common/memtest.o
+LOAD common/printf.o
+LOAD common/queue.o
+LOAD common/startup.o
+LOAD common/stdlib.o
+LOAD common/uif.o
+LOAD cpu/arm_cm0.o
+LOAD cpu/nmi_isr_handler.o
+LOAD cpu/start.o
+LOAD cpu/sysinit.o
+LOAD cpu/system_MKL25Z4.o
+LOAD cpu/vectors.o
+LOAD drivers/cmp/cmp.o
+LOAD drivers/llwu/llwu.o
+LOAD drivers/lptmr/lptmr.o
+LOAD drivers/mcg/mcg.o
+LOAD drivers/pmc/pmc.o
+LOAD drivers/rcm/rcm.o
+LOAD drivers/rtc/rtc.o
+LOAD drivers/smc/smc.o
+LOAD drivers/uart/Serial.o
+LOAD drivers/uart/uart.o
+LOAD src/FRDM_KL25ZDemo.o
+LOAD src/I2C/hal_dev_mma8451.o
+LOAD src/I2C/hal_i2c.o
+LOAD src/angle_calculation/angle_cal.o
+LOAD src/angle_calculation/asin.o
+LOAD src/angle_calculation/median.o
+LOAD src/angle_calculation/sqrt16.o
+LOAD src/bsp/bsp_KL25.o
+LOAD src/freedom_gpio/freedom_gpio.o
+LOAD src/global.o
+LOAD src/pit/pit.o
+LOAD src/task_mgr/task_mgr.o
+LOAD src/tsi/TSIDrv.o
+LOAD src/usb/ring_buffer.o
+LOAD src/usb/usb.o
+LOAD src/usb/usb_cdc.o
+LOAD src/usb/usb_reg.o
+                0x0000000000000080                malloc_getpagesize_P = 0x80
+START GROUP
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv6-m/libc_nano.a
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv6-m/libm.a
+END GROUP
+START GROUP
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv6-m/libc_nano.a
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv6-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv6-m/libc_nano.a
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/../../../../arm-atollic-eabi/lib/armv6-m/libnosys.a
+END GROUP
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtend.o
+LOAD /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtn.o
+                0x0000000020003000                _estack = 0x20003000
+                0x0000000020003000                __BOOT_STACK_ADDRESS = _estack
+                0x0000000000000000                _Min_Heap_Size = 0x0
+                0x0000000000000080                _Min_Stack_Size = 0x80
+
+.isr_vector     0x0000000000000000      0x410
+                0x0000000000000000                . = ALIGN (0x4)
+                0x0000000000000000                __VECTOR_TABLE = .
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x410 cpu/vectors.o
+                0x0000000000000000                __vector_table
+                0x0000000000000410                . = ALIGN (0x4)
+
+.text           0x0000000000000410     0x4870
+                0x0000000000000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000410       0x48 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+ .text          0x0000000000000458      0x114 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+                0x0000000000000458                __udivsi3
+                0x0000000000000458                __aeabi_uidiv
+                0x0000000000000564                __aeabi_uidivmod
+ .text          0x000000000000056c      0x1d4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+                0x000000000000056c                __aeabi_idiv
+                0x000000000000056c                __divsi3
+                0x0000000000000738                __aeabi_idivmod
+ .text          0x0000000000000740        0x4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0000000000000740                __aeabi_ldiv0
+                0x0000000000000740                __aeabi_idiv0
+ *(.text*)
+ .text.out_char
+                0x0000000000000744       0x28 common/io.o
+                0x0000000000000744                out_char
+ .text.printk_putc
+                0x000000000000076c       0x50 common/printf.o
+ .text.printk_mknumstr
+                0x00000000000007bc       0xfa common/printf.o
+ .text.printk_pad_zero
+                0x00000000000008b6       0x36 common/printf.o
+ .text.printk_pad_space
+                0x00000000000008ec       0x36 common/printf.o
+ *fill*         0x0000000000000922        0x2 
+ .text.printk   0x0000000000000924      0x534 common/printf.o
+                0x0000000000000924                printk
+ .text.printf   0x0000000000000e58       0x40 common/printf.o
+                0x0000000000000e58                printf
+ .text.sprintf  0x0000000000000e98       0x56 common/printf.o
+                0x0000000000000e98                sprintf
+ *fill*         0x0000000000000eee        0x2 
+ .text.common_startup
+                0x0000000000000ef0       0xa4 common/startup.o
+                0x0000000000000ef0                common_startup
+ .text.strlen   0x0000000000000f94       0x36 common/stdlib.o
+                0x0000000000000f94                strlen
+ *fill*         0x0000000000000fca        0x2 
+ .text.write_vtor
+                0x0000000000000fcc       0x20 cpu/arm_cm0.o
+                0x0000000000000fcc                write_vtor
+ .text.enable_irq
+                0x0000000000000fec       0x78 cpu/arm_cm0.o
+                0x0000000000000fec                enable_irq
+ .text.start    0x0000000000001064       0x34 cpu/start.o
+                0x0000000000001064                start
+ .text.cpu_identify
+                0x0000000000001098      0x2c4 cpu/start.o
+                0x0000000000001098                cpu_identify
+ .text.flash_identify
+                0x000000000000135c      0x11c cpu/start.o
+                0x000000000000135c                flash_identify
+ .text.sysinit  0x0000000000001478      0x154 cpu/sysinit.o
+                0x0000000000001478                sysinit
+ .text.default_isr
+                0x00000000000015cc       0x20 cpu/vectors.o
+                0x00000000000015cc                default_isr
+ .text.pll_init
+                0x00000000000015ec      0x56c drivers/mcg/mcg.o
+                0x00000000000015ec                pll_init
+ .text.outSRS   0x0000000000001b58      0x238 drivers/rcm/rcm.o
+                0x0000000000001b58                outSRS
+ .text.uart0_init
+                0x0000000000001d90      0x230 drivers/uart/uart.o
+                0x0000000000001d90                uart0_init
+ .text.uart0_putchar
+                0x0000000000001fc0       0x2c drivers/uart/uart.o
+                0x0000000000001fc0                uart0_putchar
+ .text.usb_init
+                0x0000000000001fec       0x58 src/FRDM_KL25ZDemo.o
+                0x0000000000001fec                usb_init
+ .text.usb_service
+                0x0000000000002044       0x90 src/FRDM_KL25ZDemo.o
+                0x0000000000002044                usb_service
+ .text.accel_init
+                0x00000000000020d4       0x30 src/FRDM_KL25ZDemo.o
+                0x00000000000020d4                accel_init
+ .text.accel_read
+                0x0000000000002104      0x180 src/FRDM_KL25ZDemo.o
+                0x0000000000002104                accel_read
+ .text.accel_demo
+                0x0000000000002284       0xf8 src/FRDM_KL25ZDemo.o
+                0x0000000000002284                accel_demo
+ .text.TPM_init
+                0x000000000000237c       0xb8 src/FRDM_KL25ZDemo.o
+                0x000000000000237c                TPM_init
+ .text.vfn_rgb_test
+                0x0000000000002434      0x100 src/FRDM_KL25ZDemo.o
+                0x0000000000002434                vfn_rgb_test
+ .text.main     0x0000000000002534       0x64 src/FRDM_KL25ZDemo.o
+                0x0000000000002534                main
+ .text.hal_dev_mma8451_init
+                0x0000000000002598       0x18 src/I2C/hal_dev_mma8451.o
+                0x0000000000002598                hal_dev_mma8451_init
+ .text.pause    0x00000000000025b0       0x22 src/I2C/hal_dev_mma8451.o
+ *fill*         0x00000000000025d2        0x2 
+ .text.hal_dev_mma8451_read_reg
+                0x00000000000025d4       0xc4 src/I2C/hal_dev_mma8451.o
+                0x00000000000025d4                hal_dev_mma8451_read_reg
+ .text.hal_dev_mma8451_write_reg
+                0x0000000000002698       0x88 src/I2C/hal_dev_mma8451.o
+                0x0000000000002698                hal_dev_mma8451_write_reg
+ .text.i2c_set_tx_mode
+                0x0000000000002720       0x20 src/I2C/hal_i2c.o
+                0x0000000000002720                i2c_set_tx_mode
+ .text.i2c_set_rx_mode
+                0x0000000000002740       0x20 src/I2C/hal_i2c.o
+                0x0000000000002740                i2c_set_rx_mode
+ .text.i2c_set_slave_mode
+                0x0000000000002760       0x20 src/I2C/hal_i2c.o
+                0x0000000000002760                i2c_set_slave_mode
+ .text.i2c_set_master_mode
+                0x0000000000002780       0x20 src/I2C/hal_i2c.o
+                0x0000000000002780                i2c_set_master_mode
+ .text.i2c_give_nack
+                0x00000000000027a0       0x20 src/I2C/hal_i2c.o
+                0x00000000000027a0                i2c_give_nack
+ .text.i2c_repeated_start
+                0x00000000000027c0       0x20 src/I2C/hal_i2c.o
+                0x00000000000027c0                i2c_repeated_start
+ .text.i2c_write_byte
+                0x00000000000027e0       0x1e src/I2C/hal_i2c.o
+                0x00000000000027e0                i2c_write_byte
+ .text.i2c_read_byte
+                0x00000000000027fe       0x16 src/I2C/hal_i2c.o
+                0x00000000000027fe                i2c_read_byte
+ .text.i2c_start
+                0x0000000000002814       0x20 src/I2C/hal_i2c.o
+                0x0000000000002814                i2c_start
+ .text.i2c_stop
+                0x0000000000002834       0x20 src/I2C/hal_i2c.o
+                0x0000000000002834                i2c_stop
+ .text.i2c_wait
+                0x0000000000002854       0x30 src/I2C/hal_i2c.o
+                0x0000000000002854                i2c_wait
+ .text.i2c_get_ack
+                0x0000000000002884       0x24 src/I2C/hal_i2c.o
+                0x0000000000002884                i2c_get_ack
+ .text.hal_i2c_init
+                0x00000000000028a8       0x48 src/I2C/hal_i2c.o
+                0x00000000000028a8                hal_i2c_init
+ .text.angle_calculation
+                0x00000000000028f0      0x23c src/angle_calculation/angle_cal.o
+                0x00000000000028f0                angle_calculation
+ .text.detect_fall_detection
+                0x0000000000002b2c       0x54 src/angle_calculation/angle_cal.o
+                0x0000000000002b2c                detect_fall_detection
+ .text.median   0x0000000000002b80       0xd8 src/angle_calculation/median.o
+                0x0000000000002b80                median
+ .text.sqrt_16  0x0000000000002c58       0x58 src/angle_calculation/sqrt16.o
+                0x0000000000002c58                sqrt_16
+ .text.vfnInitUSBClock
+                0x0000000000002cb0       0xb8 src/bsp/bsp_KL25.o
+                0x0000000000002cb0                vfnInitUSBClock
+ .text.fll_init
+                0x0000000000002d68        0xa src/bsp/bsp_KL25.o
+                0x0000000000002d68                fll_init
+ *fill*         0x0000000000002d72        0x2 
+ .text.gpio_init
+                0x0000000000002d74       0x84 src/freedom_gpio/freedom_gpio.o
+                0x0000000000002d74                gpio_init
+ .text.Pit_init
+                0x0000000000002df8       0x74 src/pit/pit.o
+                0x0000000000002df8                Pit_init
+ .text.Pit1_isrv
+                0x0000000000002e6c       0xa8 src/pit/pit.o
+                0x0000000000002e6c                Pit1_isrv
+ .text.TSI_SelfCalibration
+                0x0000000000002f14      0x134 src/tsi/TSIDrv.o
+                0x0000000000002f14                TSI_SelfCalibration
+ .text.TSI_Init
+                0x0000000000003048       0x5c src/tsi/TSIDrv.o
+                0x0000000000003048                TSI_Init
+ .text.change_electrode
+                0x00000000000030a4       0xd0 src/tsi/TSIDrv.o
+                0x00000000000030a4                change_electrode
+ .text.TSI_SliderRead
+                0x0000000000003174      0x138 src/tsi/TSIDrv.o
+                0x0000000000003174                TSI_SliderRead
+ .text.TSI_ISR  0x00000000000032ac       0x28 src/tsi/TSIDrv.o
+                0x00000000000032ac                TSI_ISR
+ .text.Buffer_Init
+                0x00000000000032d4       0x5c src/usb/ring_buffer.o
+                0x00000000000032d4                Buffer_Init
+ .text.USB_Init
+                0x0000000000003330      0x104 src/usb/usb.o
+                0x0000000000003330                USB_Init
+ .text.EP_IN_Transfer
+                0x0000000000003434      0x1e0 src/usb/usb.o
+                0x0000000000003434                EP_IN_Transfer
+ .text.EP_OUT_Transfer
+                0x0000000000003614       0x7c src/usb/usb.o
+                0x0000000000003614                EP_OUT_Transfer
+ .text.USB_EP_OUT_SizeCheck
+                0x0000000000003690       0x54 src/usb/usb.o
+                0x0000000000003690                USB_EP_OUT_SizeCheck
+ .text.USB_Set_Interface
+                0x00000000000036e4       0x90 src/usb/usb.o
+                0x00000000000036e4                USB_Set_Interface
+ .text.USB_StdReq_Handler
+                0x0000000000003774      0x118 src/usb/usb.o
+                0x0000000000003774                USB_StdReq_Handler
+ .text.USB_Setup_Handler
+                0x000000000000388c       0xa8 src/usb/usb.o
+                0x000000000000388c                USB_Setup_Handler
+ .text.USB_Endpoint_Setup_Handler
+                0x0000000000003934       0xb8 src/usb/usb.o
+                0x0000000000003934                USB_Endpoint_Setup_Handler
+ .text.USB_Handler
+                0x00000000000039ec       0x9c src/usb/usb.o
+                0x00000000000039ec                USB_Handler
+ .text.USB_EP0_IN_Handler
+                0x0000000000003a88       0x4c src/usb/usb.o
+                0x0000000000003a88                USB_EP0_IN_Handler
+ .text.USB_EP0_Stall
+                0x0000000000003ad4       0x34 src/usb/usb.o
+                0x0000000000003ad4                USB_EP0_Stall
+ .text.USB_EP0_OUT_Handler
+                0x0000000000003b08       0x28 src/usb/usb.o
+                0x0000000000003b08                USB_EP0_OUT_Handler
+ .text.USB_Stall_Handler
+                0x0000000000003b30       0x48 src/usb/usb.o
+                0x0000000000003b30                USB_Stall_Handler
+ .text.USB_Reset_Handler
+                0x0000000000003b78      0x148 src/usb/usb.o
+                0x0000000000003b78                USB_Reset_Handler
+ .text.USB_ISR  0x0000000000003cc0       0xd8 src/usb/usb.o
+                0x0000000000003cc0                USB_ISR
+ .text.CDC_Init
+                0x0000000000003d98       0x60 src/usb/usb_cdc.o
+                0x0000000000003d98                CDC_Init
+ .text.CDC_Engine
+                0x0000000000003df8       0x80 src/usb/usb_cdc.o
+                0x0000000000003df8                CDC_Engine
+ .text.CDC_InterfaceReq_Handler
+                0x0000000000003e78       0xac src/usb/usb_cdc.o
+                0x0000000000003e78                CDC_InterfaceReq_Handler
+ .text.LWordSwap
+                0x0000000000003f24       0x42 src/usb/usb_cdc.o
+                0x0000000000003f24                LWordSwap
+ *(.rodata)
+ *fill*         0x0000000000003f66        0x2 
+ .rodata        0x0000000000003f68       0xef cpu/arm_cm0.o
+ *fill*         0x0000000000004057        0x1 
+ .rodata        0x0000000000004058      0x411 cpu/start.o
+ *fill*         0x0000000000004469        0x3 
+ .rodata        0x000000000000446c      0x1b0 cpu/vectors.o
+ .rodata        0x000000000000461c      0x1bb drivers/rcm/rcm.o
+ *fill*         0x00000000000047d7        0x1 
+ .rodata        0x00000000000047d8       0x3f src/FRDM_KL25ZDemo.o
+ *(.rodata*)
+ *fill*         0x0000000000004817        0x1 
+ .rodata.printk
+                0x0000000000004818       0xc8 common/printf.o
+ .rodata.cpu_identify
+                0x00000000000048e0       0x98 cpu/start.o
+ .rodata.vfn_rgb_test
+                0x0000000000004978       0x20 src/FRDM_KL25ZDemo.o
+ .rodata.asin   0x0000000000004998      0x200 src/angle_calculation/asin.o
+                0x0000000000004998                asin
+ .rodata.Device_Descriptor
+                0x0000000000004b98       0x12 src/usb/usb.o
+                0x0000000000004b98                Device_Descriptor
+ *fill*         0x0000000000004baa        0x2 
+ .rodata.String_Descriptor0
+                0x0000000000004bac        0x4 src/usb/usb.o
+                0x0000000000004bac                String_Descriptor0
+ .rodata.String_Descriptor1
+                0x0000000000004bb0       0x14 src/usb/usb.o
+                0x0000000000004bb0                String_Descriptor1
+ .rodata.String_Descriptor2
+                0x0000000000004bc4       0x12 src/usb/usb.o
+                0x0000000000004bc4                String_Descriptor2
+ *fill*         0x0000000000004bd6        0x2 
+ .rodata.String_Descriptor3
+                0x0000000000004bd8       0x12 src/usb/usb.o
+                0x0000000000004bd8                String_Descriptor3
+ *fill*         0x0000000000004bea        0x2 
+ .rodata.Configuration_Descriptor
+                0x0000000000004bec       0x43 src/usb/usb.o
+                0x0000000000004bec                Configuration_Descriptor
+ *fill*         0x0000000000004c2f        0x1 
+ .rodata.cEP_Size
+                0x0000000000004c30       0x10 src/usb/usb.o
+                0x0000000000004c30                cEP_Size
+ .rodata.USB_StdReq_Handler
+                0x0000000000004c40       0x28 src/usb/usb.o
+ *(.glue_7)
+ .glue_7        0x0000000000004c68        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000000004c68        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000000004c68        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+ *(.init)
+ .init          0x0000000000004c68        0x4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+                0x0000000000004c68                _init
+ .init          0x0000000000004c6c        0x8 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x0000000000004c74        0x4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+                0x0000000000004c74                _fini
+ .fini          0x0000000000004c78        0x8 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtn.o
+                0x0000000000004c80                . = ALIGN (0x4)
+                0x0000000000004c80                _etext = .
+
+.vfp11_veneer   0x0000000000004c80        0x0
+ .vfp11_veneer  0x0000000000004c80        0x0 linker stubs
+
+.v4_bx          0x0000000000004c80        0x0
+ .v4_bx         0x0000000000004c80        0x0 linker stubs
+
+.iplt           0x0000000000004c80        0x0
+ .iplt          0x0000000000004c80        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+
+.rel.dyn        0x0000000000004c80        0x0
+ .rel.iplt      0x0000000000004c80        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000000004c80        0x0
+                0x0000000000004c80                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000000004c80                __exidx_end = .
+
+.preinit_array  0x0000000000004c80        0x0
+                [!provide]                        PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                [!provide]                        PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000000004c80        0x4
+                [!provide]                        PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000000004c80        0x4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+                [!provide]                        PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000000000004c84        0x4
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000000004c84        0x4 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+
+.isr_vector_ram
+                0x000000001ffff000      0x410
+                0x000000001ffff000                __VECTOR_RAM = .
+                0x0000000000000410                . = 0x410
+ *fill*         0x000000001ffff000      0x410 
+                0x0000000000004c88                _sidata = LOADADDR (.data)
+
+.data           0x000000001ffff410       0x88 load address 0x0000000000004c88
+                0x000000001ffff410                . = ALIGN (0x4)
+                0x000000001ffff410                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.count_mseg.4900
+                0x000000001ffff410        0x1 src/pit/pit.o
+ .data.total_electrode
+                0x000000001ffff411        0x1 src/tsi/TSIDrv.o
+                0x000000001ffff411                total_electrode
+ *fill*         0x000000001ffff412        0x2 
+ .data.elec_array
+                0x000000001ffff414       0x10 src/tsi/TSIDrv.o
+                0x000000001ffff414                elec_array
+ .data.gu16Threshold
+                0x000000001ffff424       0x20 src/tsi/TSIDrv.o
+                0x000000001ffff424                gu16Threshold
+ .data.end_flag
+                0x000000001ffff444        0x1 src/tsi/TSIDrv.o
+                0x000000001ffff444                end_flag
+ *fill*         0x000000001ffff445        0x3 
+ .data.BufferPointer
+                0x000000001ffff448       0x40 src/usb/usb.o
+                0x000000001ffff448                BufferPointer
+ .data.String_Table
+                0x000000001ffff488       0x10 src/usb/usb.o
+                0x000000001ffff488                String_Table
+                0x000000001ffff498                . = ALIGN (0x4)
+                0x000000001ffff498                _edata = .
+
+.igot.plt       0x000000001ffff498        0x0 load address 0x0000000000004d10
+ .igot.plt      0x000000001ffff498        0x0 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+                0x000000001ffff498                . = ALIGN (0x4)
+
+.bss            0x000000001ffff498      0x4f8 load address 0x0000000000004d10
+                0x000000001ffff498                _sbss = .
+                0x000000001ffff498                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000001ffff498       0x1c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+ *(.bss*)
+ .bss.seq_count.5205
+                0x000000001ffff4b4        0x1 src/FRDM_KL25ZDemo.o
+ *fill*         0x000000001ffff4b5        0x3 
+ .bss.SliderPercentegePosition
+                0x000000001ffff4b8        0x2 src/tsi/TSIDrv.o
+                0x000000001ffff4b8                SliderPercentegePosition
+ *fill*         0x000000001ffff4ba        0x2 
+ .bss.SliderDistancePosition
+                0x000000001ffff4bc        0x2 src/tsi/TSIDrv.o
+                0x000000001ffff4bc                SliderDistancePosition
+ .bss.AbsolutePercentegePosition
+                0x000000001ffff4be        0x1 src/tsi/TSIDrv.o
+                0x000000001ffff4be                AbsolutePercentegePosition
+ .bss.AbsoluteDistancePosition
+                0x000000001ffff4bf        0x1 src/tsi/TSIDrv.o
+                0x000000001ffff4bf                AbsoluteDistancePosition
+ .bss.u8CDCState
+                0x000000001ffff4c0        0x1 src/usb/usb_cdc.o
+                0x000000001ffff4c0                u8CDCState
+ *(COMMON)
+ *fill*         0x000000001ffff4c1        0x3 
+ COMMON         0x000000001ffff4c4       0x18 cpu/sysinit.o
+                0x000000001ffff4c4                mcg_clk_hz
+                0x000000001ffff4c8                core_clk_khz
+                0x000000001ffff4cc                periph_clk_khz
+                0x000000001ffff4d0                uart0_clk_khz
+                0x000000001ffff4d4                mcg_clk_khz
+                0x000000001ffff4d8                pll_clk_khz
+ COMMON         0x000000001ffff4dc       0x4d src/FRDM_KL25ZDemo.o
+                0x000000001ffff4dc                accel_x
+                0x000000001ffff4de                accel_y
+                0x000000001ffff4e0                resultz
+                0x000000001ffff4e2                resultx
+                0x000000001ffff4e4                gu8USB_Buffer
+                0x000000001ffff524                accel_z
+                0x000000001ffff526                resulty
+                0x000000001ffff528                aux1
+ *fill*         0x000000001ffff529        0x3 
+ COMMON         0x000000001ffff52c       0x9c src/angle_calculation/angle_cal.o
+                0x000000001ffff52c                yz_mag
+                0x000000001ffff530                cat
+                0x000000001ffff534                xy_angle
+                0x000000001ffff538                xz_mag
+                0x000000001ffff53c                fall_input
+                0x000000001ffff540                arr_medianas
+                0x000000001ffff5ac                xy_mag
+                0x000000001ffff5b0                Z_acc
+                0x000000001ffff5b4                X_acc
+                0x000000001ffff5b8                yz_angle
+                0x000000001ffff5bc                offset
+                0x000000001ffff5c0                Y_acc
+                0x000000001ffff5c4                xz_angle
+ COMMON         0x000000001ffff5c8       0x1a src/global.o
+                0x000000001ffff5c8                ti_tsi1
+                0x000000001ffff5ca                ti_fall
+                0x000000001ffff5cc                adc_sample
+                0x000000001ffff5ce                ti_test_adc
+                0x000000001ffff5d0                base_time125m
+                0x000000001ffff5d2                ti_delay
+                0x000000001ffff5d4                pit1_isrv_count
+                0x000000001ffff5d6                ti_print
+                0x000000001ffff5d8                ti_console
+                0x000000001ffff5da                ti_tsi0
+                0x000000001ffff5dc                ti_task
+                0x000000001ffff5de                ti_led
+                0x000000001ffff5e0                ti_accel_sampling
+ *fill*         0x000000001ffff5e2        0x2 
+ COMMON         0x000000001ffff5e4        0x8 src/task_mgr/task_mgr.o
+                0x000000001ffff5e4                ptr_next_task
+                0x000000001ffff5e8                resp_ptr_next_task
+ COMMON         0x000000001ffff5ec       0x64 src/tsi/TSIDrv.o
+                0x000000001ffff5ec                gu16TSICount
+                0x000000001ffff60c                ongoing_elec
+                0x000000001ffff610                gu16Baseline
+                0x000000001ffff630                gu16Delta
+ COMMON         0x000000001ffff650       0x12 src/usb/ring_buffer.o
+                0x000000001ffff650                OUT_EndAddress
+                0x000000001ffff654                OUT_SciPointer
+                0x000000001ffff658                OUT_StartAddress
+                0x000000001ffff65c                OUT_UsbPointer
+                0x000000001ffff660                gu8BufferOverFlow
+                0x000000001ffff661                gu8BufferMaxSize
+ *fill*         0x000000001ffff662        0x2 
+ COMMON         0x000000001ffff664      0x2a4 src/usb/usb.o
+                0x000000001ffff664                gu8EP3_OUT_EVEN_Buffer
+                0x000000001ffff684                gu8IN_Counter
+                0x000000001ffff688                gu8EP1_OUT_EVEN_Buffer
+                0x000000001ffff6a8                Setup_Pkt
+                0x000000001ffff6ac                gu8EP1_OUT_ODD_Buffer
+                0x000000001ffff6cc                gu8HALT_EP
+                0x000000001ffff6cd                gu8USB_PingPong_flags
+                0x000000001ffff6d0                gu8EP2_IN_ODD_Buffer
+                0x000000001ffff6f0                gu8Status
+                0x000000001ffff6f4                gu8EP1_IN_ODD_Buffer
+                0x000000001ffff714                gu8EP0_OUT_ODD_Buffer
+                0x000000001ffff734                gu8USB_Toogle_flags
+                0x000000001ffff738                gu8EP3_IN_EVEN_Buffer
+                0x000000001ffff758                gu8EP1_IN_EVEN_Buffer
+                0x000000001ffff778                gu8USB_Flags
+                0x000000001ffff779                gu8Interface
+                0x000000001ffff77c                gu8EP2_OUT_EVEN_Buffer
+                0x000000001ffff79c                gu8USBClearFlags
+                0x000000001ffff7a0                gu8EP0_IN_ODD_Buffer
+                0x000000001ffff7c0                gu8EP0_OUT_EVEN_Buffer
+                0x000000001ffff7e0                gu8USB_State
+                0x000000001ffff7e1                gu8Dummy
+                0x000000001ffff7e4                gu8EP2_IN_EVEN_Buffer
+                0x000000001ffff804                tBDTtable
+                0x000000001ffff884                pu8IN_DataPointer
+                0x000000001ffff888                gu8EP0_IN_EVEN_Buffer
+                0x000000001ffff8a8                gu8EP3_IN_ODD_Buffer
+                0x000000001ffff8c8                gu8EP3_OUT_ODD_Buffer
+                0x000000001ffff8e8                gu8EP2_OUT_ODD_Buffer
+ COMMON         0x000000001ffff908       0x88 src/usb/usb_cdc.o
+                0x000000001ffff908                LineCoding
+                0x000000001ffff910                CDC_OUT_Data
+                0x000000001ffff990                . = ALIGN (0x4)
+                0x000000001ffff990                _ebss = .
+                0x000000001ffff990                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000001ffff990       0x80 load address 0x0000000000004d10
+                0x000000001ffff990                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (end, .)
+                [!provide]                        PROVIDE (_end, .)
+                0x000000001ffff990                PROVIDE (__HEAP_START, .)
+                0x000000001ffff990                . = (. + _Min_Heap_Size)
+                0x000000001ffff990                PROVIDE (__HEAP_END, .)
+                0x000000001ffffa10                . = (. + _Min_Stack_Size)
+ *fill*         0x000000001ffff990       0x80 
+                0x000000001ffffa10                . = ALIGN (0x4)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x32 common/io.o
+ .ARM.attributes
+                0x000000000000007c       0x32 common/printf.o
+ .ARM.attributes
+                0x00000000000000ae       0x32 common/startup.o
+ .ARM.attributes
+                0x00000000000000e0       0x32 common/stdlib.o
+ .ARM.attributes
+                0x0000000000000112       0x32 cpu/arm_cm0.o
+ .ARM.attributes
+                0x0000000000000144       0x32 cpu/start.o
+ .ARM.attributes
+                0x0000000000000176       0x32 cpu/sysinit.o
+ .ARM.attributes
+                0x00000000000001a8       0x32 cpu/vectors.o
+ .ARM.attributes
+                0x00000000000001da       0x32 drivers/mcg/mcg.o
+ .ARM.attributes
+                0x000000000000020c       0x32 drivers/rcm/rcm.o
+ .ARM.attributes
+                0x000000000000023e       0x32 drivers/uart/uart.o
+ .ARM.attributes
+                0x0000000000000270       0x32 src/FRDM_KL25ZDemo.o
+ .ARM.attributes
+                0x00000000000002a2       0x32 src/I2C/hal_dev_mma8451.o
+ .ARM.attributes
+                0x00000000000002d4       0x32 src/I2C/hal_i2c.o
+ .ARM.attributes
+                0x0000000000000306       0x32 src/angle_calculation/angle_cal.o
+ .ARM.attributes
+                0x0000000000000338       0x32 src/angle_calculation/asin.o
+ .ARM.attributes
+                0x000000000000036a       0x32 src/angle_calculation/median.o
+ .ARM.attributes
+                0x000000000000039c       0x32 src/angle_calculation/sqrt16.o
+ .ARM.attributes
+                0x00000000000003ce       0x32 src/bsp/bsp_KL25.o
+ .ARM.attributes
+                0x0000000000000400       0x32 src/freedom_gpio/freedom_gpio.o
+ .ARM.attributes
+                0x0000000000000432       0x32 src/global.o
+ .ARM.attributes
+                0x0000000000000464       0x32 src/pit/pit.o
+ .ARM.attributes
+                0x0000000000000496       0x32 src/task_mgr/task_mgr.o
+ .ARM.attributes
+                0x00000000000004c8       0x32 src/tsi/TSIDrv.o
+ .ARM.attributes
+                0x00000000000004fa       0x32 src/usb/ring_buffer.o
+ .ARM.attributes
+                0x000000000000052c       0x32 src/usb/usb.o
+ .ARM.attributes
+                0x000000000000055e       0x32 src/usb/usb_cdc.o
+ .ARM.attributes
+                0x0000000000000590       0x1e /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000005ae       0x1e /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000005cc       0x1e /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000005ea       0x1e /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtn.o
+OUTPUT(Freedom-KL25Z_FRDM_KL25ZDemoAtolic.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x75ad
+ .debug_info    0x0000000000000000      0x227 common/io.o
+ .debug_info    0x0000000000000227      0x4ca common/printf.o
+ .debug_info    0x00000000000006f1      0x13a common/startup.o
+ .debug_info    0x000000000000082b      0x60e common/stdlib.o
+ .debug_info    0x0000000000000e39      0x3a2 cpu/arm_cm0.o
+ .debug_info    0x00000000000011db      0x41c cpu/start.o
+ .debug_info    0x00000000000015f7      0x549 cpu/sysinit.o
+ .debug_info    0x0000000000001b40      0x313 cpu/vectors.o
+ .debug_info    0x0000000000001e53      0xce9 drivers/mcg/mcg.o
+ .debug_info    0x0000000000002b3c      0x170 drivers/rcm/rcm.o
+ .debug_info    0x0000000000002cac      0x61b drivers/uart/uart.o
+ .debug_info    0x00000000000032c7      0xdbd src/FRDM_KL25ZDemo.o
+ .debug_info    0x0000000000004084      0x1ec src/I2C/hal_dev_mma8451.o
+ .debug_info    0x0000000000004270      0x5f6 src/I2C/hal_i2c.o
+ .debug_info    0x0000000000004866      0x2e2 src/angle_calculation/angle_cal.o
+ .debug_info    0x0000000000004b48       0x57 src/angle_calculation/asin.o
+ .debug_info    0x0000000000004b9f       0xf8 src/angle_calculation/median.o
+ .debug_info    0x0000000000004c97       0x8d src/angle_calculation/sqrt16.o
+ .debug_info    0x0000000000004d24      0x384 src/bsp/bsp_KL25.o
+ .debug_info    0x00000000000050a8      0x23e src/freedom_gpio/freedom_gpio.o
+ .debug_info    0x00000000000052e6      0x15a src/global.o
+ .debug_info    0x0000000000005440      0x56b src/pit/pit.o
+ .debug_info    0x00000000000059ab       0xa9 src/task_mgr/task_mgr.o
+ .debug_info    0x0000000000005a54      0x591 src/tsi/TSIDrv.o
+ .debug_info    0x0000000000005fe5      0x172 src/usb/ring_buffer.o
+ .debug_info    0x0000000000006157      0xf5b src/usb/usb.o
+ .debug_info    0x00000000000070b2      0x4fb src/usb/usb_cdc.o
+
+.debug_abbrev   0x0000000000000000     0x1e86
+ .debug_abbrev  0x0000000000000000       0xb5 common/io.o
+ .debug_abbrev  0x00000000000000b5      0x1bf common/printf.o
+ .debug_abbrev  0x0000000000000274       0x97 common/startup.o
+ .debug_abbrev  0x000000000000030b      0x139 common/stdlib.o
+ .debug_abbrev  0x0000000000000444      0x133 cpu/arm_cm0.o
+ .debug_abbrev  0x0000000000000577      0x11a cpu/start.o
+ .debug_abbrev  0x0000000000000691       0xfb cpu/sysinit.o
+ .debug_abbrev  0x000000000000078c      0x121 cpu/vectors.o
+ .debug_abbrev  0x00000000000008ad      0x210 drivers/mcg/mcg.o
+ .debug_abbrev  0x0000000000000abd       0x9c drivers/rcm/rcm.o
+ .debug_abbrev  0x0000000000000b59      0x1b2 drivers/uart/uart.o
+ .debug_abbrev  0x0000000000000d0b      0x278 src/FRDM_KL25ZDemo.o
+ .debug_abbrev  0x0000000000000f83      0x114 src/I2C/hal_dev_mma8451.o
+ .debug_abbrev  0x0000000000001097      0x140 src/I2C/hal_i2c.o
+ .debug_abbrev  0x00000000000011d7      0x102 src/angle_calculation/angle_cal.o
+ .debug_abbrev  0x00000000000012d9       0x50 src/angle_calculation/asin.o
+ .debug_abbrev  0x0000000000001329       0xc2 src/angle_calculation/median.o
+ .debug_abbrev  0x00000000000013eb       0x59 src/angle_calculation/sqrt16.o
+ .debug_abbrev  0x0000000000001444      0x113 src/bsp/bsp_KL25.o
+ .debug_abbrev  0x0000000000001557       0xf4 src/freedom_gpio/freedom_gpio.o
+ .debug_abbrev  0x000000000000164b       0x44 src/global.o
+ .debug_abbrev  0x000000000000168f      0x122 src/pit/pit.o
+ .debug_abbrev  0x00000000000017b1       0x54 src/task_mgr/task_mgr.o
+ .debug_abbrev  0x0000000000001805      0x16e src/tsi/TSIDrv.o
+ .debug_abbrev  0x0000000000001973       0xc8 src/usb/ring_buffer.o
+ .debug_abbrev  0x0000000000001a3b      0x286 src/usb/usb.o
+ .debug_abbrev  0x0000000000001cc1      0x1c5 src/usb/usb_cdc.o
+
+.debug_aranges  0x0000000000000000      0x720
+ .debug_aranges
+                0x0000000000000000       0x30 common/io.o
+ .debug_aranges
+                0x0000000000000030       0x50 common/printf.o
+ .debug_aranges
+                0x0000000000000080       0x20 common/startup.o
+ .debug_aranges
+                0x00000000000000a0       0x98 common/stdlib.o
+ .debug_aranges
+                0x0000000000000138       0x48 cpu/arm_cm0.o
+ .debug_aranges
+                0x0000000000000180       0x30 cpu/start.o
+ .debug_aranges
+                0x00000000000001b0       0x30 cpu/sysinit.o
+ .debug_aranges
+                0x00000000000001e0       0x38 cpu/vectors.o
+ .debug_aranges
+                0x0000000000000218       0xf0 drivers/mcg/mcg.o
+ .debug_aranges
+                0x0000000000000308       0x20 drivers/rcm/rcm.o
+ .debug_aranges
+                0x0000000000000328       0x58 drivers/uart/uart.o
+ .debug_aranges
+                0x0000000000000380       0x58 src/FRDM_KL25ZDemo.o
+ .debug_aranges
+                0x00000000000003d8       0x38 src/I2C/hal_dev_mma8451.o
+ .debug_aranges
+                0x0000000000000410       0x90 src/I2C/hal_i2c.o
+ .debug_aranges
+                0x00000000000004a0       0x28 src/angle_calculation/angle_cal.o
+ .debug_aranges
+                0x00000000000004c8       0x18 src/angle_calculation/asin.o
+ .debug_aranges
+                0x00000000000004e0       0x20 src/angle_calculation/median.o
+ .debug_aranges
+                0x0000000000000500       0x20 src/angle_calculation/sqrt16.o
+ .debug_aranges
+                0x0000000000000520       0x28 src/bsp/bsp_KL25.o
+ .debug_aranges
+                0x0000000000000548       0x30 src/freedom_gpio/freedom_gpio.o
+ .debug_aranges
+                0x0000000000000578       0x18 src/global.o
+ .debug_aranges
+                0x0000000000000590       0x28 src/pit/pit.o
+ .debug_aranges
+                0x00000000000005b8       0x18 src/task_mgr/task_mgr.o
+ .debug_aranges
+                0x00000000000005d0       0x50 src/tsi/TSIDrv.o
+ .debug_aranges
+                0x0000000000000620       0x28 src/usb/ring_buffer.o
+ .debug_aranges
+                0x0000000000000648       0xa0 src/usb/usb.o
+ .debug_aranges
+                0x00000000000006e8       0x38 src/usb/usb_cdc.o
+
+.debug_ranges   0x0000000000000000      0x558
+ .debug_ranges  0x0000000000000000       0x20 common/io.o
+ .debug_ranges  0x0000000000000020       0x40 common/printf.o
+ .debug_ranges  0x0000000000000060       0x10 common/startup.o
+ .debug_ranges  0x0000000000000070       0x88 common/stdlib.o
+ .debug_ranges  0x00000000000000f8       0x38 cpu/arm_cm0.o
+ .debug_ranges  0x0000000000000130       0x20 cpu/start.o
+ .debug_ranges  0x0000000000000150       0x20 cpu/sysinit.o
+ .debug_ranges  0x0000000000000170       0x28 cpu/vectors.o
+ .debug_ranges  0x0000000000000198       0xe0 drivers/mcg/mcg.o
+ .debug_ranges  0x0000000000000278       0x10 drivers/rcm/rcm.o
+ .debug_ranges  0x0000000000000288       0x48 drivers/uart/uart.o
+ .debug_ranges  0x00000000000002d0       0x48 src/FRDM_KL25ZDemo.o
+ .debug_ranges  0x0000000000000318       0x28 src/I2C/hal_dev_mma8451.o
+ .debug_ranges  0x0000000000000340       0x80 src/I2C/hal_i2c.o
+ .debug_ranges  0x00000000000003c0       0x18 src/angle_calculation/angle_cal.o
+ .debug_ranges  0x00000000000003d8       0x10 src/angle_calculation/median.o
+ .debug_ranges  0x00000000000003e8       0x10 src/angle_calculation/sqrt16.o
+ .debug_ranges  0x00000000000003f8       0x18 src/bsp/bsp_KL25.o
+ .debug_ranges  0x0000000000000410       0x20 src/freedom_gpio/freedom_gpio.o
+ .debug_ranges  0x0000000000000430       0x18 src/pit/pit.o
+ .debug_ranges  0x0000000000000448       0x40 src/tsi/TSIDrv.o
+ .debug_ranges  0x0000000000000488       0x18 src/usb/ring_buffer.o
+ .debug_ranges  0x00000000000004a0       0x90 src/usb/usb.o
+ .debug_ranges  0x0000000000000530       0x28 src/usb/usb_cdc.o
+
+.debug_line     0x0000000000000000     0x3640
+ .debug_line    0x0000000000000000      0x149 common/io.o
+ .debug_line    0x0000000000000149      0x26d common/printf.o
+ .debug_line    0x00000000000003b6       0x79 common/startup.o
+ .debug_line    0x000000000000042f      0x2da common/stdlib.o
+ .debug_line    0x0000000000000709      0x1a5 cpu/arm_cm0.o
+ .debug_line    0x00000000000008ae      0x1d3 cpu/start.o
+ .debug_line    0x0000000000000a81      0x173 cpu/sysinit.o
+ .debug_line    0x0000000000000bf4      0x1b2 cpu/vectors.o
+ .debug_line    0x0000000000000da6      0xd5f drivers/mcg/mcg.o
+ .debug_line    0x0000000000001b05      0x172 drivers/rcm/rcm.o
+ .debug_line    0x0000000000001c77      0x241 drivers/uart/uart.o
+ .debug_line    0x0000000000001eb8      0x32f src/FRDM_KL25ZDemo.o
+ .debug_line    0x00000000000021e7      0x1aa src/I2C/hal_dev_mma8451.o
+ .debug_line    0x0000000000002391      0x241 src/I2C/hal_i2c.o
+ .debug_line    0x00000000000025d2      0x140 src/angle_calculation/angle_cal.o
+ .debug_line    0x0000000000002712       0x40 src/angle_calculation/asin.o
+ .debug_line    0x0000000000002752       0x88 src/angle_calculation/median.o
+ .debug_line    0x00000000000027da       0x6c src/angle_calculation/sqrt16.o
+ .debug_line    0x0000000000002846      0x168 src/bsp/bsp_KL25.o
+ .debug_line    0x00000000000029ae      0x187 src/freedom_gpio/freedom_gpio.o
+ .debug_line    0x0000000000002b35       0x44 src/global.o
+ .debug_line    0x0000000000002b79      0x192 src/pit/pit.o
+ .debug_line    0x0000000000002d0b       0x49 src/task_mgr/task_mgr.o
+ .debug_line    0x0000000000002d54      0x24f src/tsi/TSIDrv.o
+ .debug_line    0x0000000000002fa3       0x98 src/usb/ring_buffer.o
+ .debug_line    0x000000000000303b      0x437 src/usb/usb.o
+ .debug_line    0x0000000000003472      0x1ce src/usb/usb_cdc.o
+
+.debug_str      0x0000000000000000     0x1f77
+ .debug_str     0x0000000000000000      0x1bf common/io.o
+                                        0x20d (size before relaxing)
+ .debug_str     0x00000000000001bf      0x118 common/printf.o
+                                        0x2d0 (size before relaxing)
+ .debug_str     0x00000000000002d7       0x80 common/startup.o
+                                        0x21b (size before relaxing)
+ .debug_str     0x0000000000000357       0xb7 common/stdlib.o
+                                        0x267 (size before relaxing)
+ .debug_str     0x000000000000040e      0x104 cpu/arm_cm0.o
+                                        0x2d1 (size before relaxing)
+ .debug_str     0x0000000000000512      0x18d cpu/start.o
+                                        0x38f (size before relaxing)
+ .debug_str     0x000000000000069f       0xe0 cpu/sysinit.o
+                                        0x3ba (size before relaxing)
+ .debug_str     0x000000000000077f      0x100 cpu/vectors.o
+                                        0x2ff (size before relaxing)
+ .debug_str     0x000000000000087f      0x224 drivers/mcg/mcg.o
+                                        0x4ee (size before relaxing)
+ .debug_str     0x0000000000000aa3       0x80 drivers/rcm/rcm.o
+                                        0x233 (size before relaxing)
+ .debug_str     0x0000000000000b23       0xe9 drivers/uart/uart.o
+                                        0x3e1 (size before relaxing)
+ .debug_str     0x0000000000000c0c      0x5a4 src/FRDM_KL25ZDemo.o
+                                        0x8ce (size before relaxing)
+ .debug_str     0x00000000000011b0       0x93 src/I2C/hal_dev_mma8451.o
+                                        0x24d (size before relaxing)
+ .debug_str     0x0000000000001243       0xeb src/I2C/hal_i2c.o
+                                        0x3ee (size before relaxing)
+ .debug_str     0x000000000000132e       0x8f src/angle_calculation/angle_cal.o
+                                        0x332 (size before relaxing)
+ .debug_str     0x00000000000013bd       0x20 src/angle_calculation/asin.o
+                                        0x132 (size before relaxing)
+ .debug_str     0x00000000000013dd       0x55 src/angle_calculation/median.o
+                                        0x1a6 (size before relaxing)
+ .debug_str     0x0000000000001432       0x3f src/angle_calculation/sqrt16.o
+                                        0x17d (size before relaxing)
+ .debug_str     0x0000000000001471       0x5a src/bsp/bsp_KL25.o
+                                        0x335 (size before relaxing)
+ .debug_str     0x00000000000014cb       0x7c src/freedom_gpio/freedom_gpio.o
+                                        0x27c (size before relaxing)
+ .debug_str     0x0000000000001547       0x1b src/global.o
+                                        0x238 (size before relaxing)
+ .debug_str     0x0000000000001562      0x2ae src/pit/pit.o
+                                        0x5d7 (size before relaxing)
+ .debug_str     0x0000000000001810       0x1b src/task_mgr/task_mgr.o
+                                        0x1d2 (size before relaxing)
+ .debug_str     0x000000000000182b       0xf0 src/tsi/TSIDrv.o
+                                        0x484 (size before relaxing)
+ .debug_str     0x000000000000191b       0x89 src/usb/ring_buffer.o
+                                        0x22c (size before relaxing)
+ .debug_str     0x00000000000019a4      0x573 src/usb/usb.o
+                                        0xb9f (size before relaxing)
+ .debug_str     0x0000000000001f17       0x60 src/usb/usb_cdc.o
+                                        0x48d (size before relaxing)
+
+.comment        0x0000000000000000       0x7c
+ .comment       0x0000000000000000       0x7c common/io.o
+                                         0x7d (size before relaxing)
+ .comment       0x000000000000007c       0x7d common/printf.o
+ .comment       0x000000000000007c       0x7d common/startup.o
+ .comment       0x000000000000007c       0x7d common/stdlib.o
+ .comment       0x000000000000007c       0x7d cpu/arm_cm0.o
+ .comment       0x000000000000007c       0x7d cpu/start.o
+ .comment       0x000000000000007c       0x7d cpu/sysinit.o
+ .comment       0x000000000000007c       0x7d cpu/vectors.o
+ .comment       0x000000000000007c       0x7d drivers/mcg/mcg.o
+ .comment       0x000000000000007c       0x7d drivers/rcm/rcm.o
+ .comment       0x000000000000007c       0x7d drivers/uart/uart.o
+ .comment       0x000000000000007c       0x7d src/FRDM_KL25ZDemo.o
+ .comment       0x000000000000007c       0x7d src/I2C/hal_dev_mma8451.o
+ .comment       0x000000000000007c       0x7d src/I2C/hal_i2c.o
+ .comment       0x000000000000007c       0x7d src/angle_calculation/angle_cal.o
+ .comment       0x000000000000007c       0x7d src/angle_calculation/asin.o
+ .comment       0x000000000000007c       0x7d src/angle_calculation/median.o
+ .comment       0x000000000000007c       0x7d src/angle_calculation/sqrt16.o
+ .comment       0x000000000000007c       0x7d src/bsp/bsp_KL25.o
+ .comment       0x000000000000007c       0x7d src/freedom_gpio/freedom_gpio.o
+ .comment       0x000000000000007c       0x7d src/global.o
+ .comment       0x000000000000007c       0x7d src/pit/pit.o
+ .comment       0x000000000000007c       0x7d src/task_mgr/task_mgr.o
+ .comment       0x000000000000007c       0x7d src/tsi/TSIDrv.o
+ .comment       0x000000000000007c       0x7d src/usb/ring_buffer.o
+ .comment       0x000000000000007c       0x7d src/usb/usb.o
+ .comment       0x000000000000007c       0x7d src/usb/usb_cdc.o
+
+.debug_frame    0x0000000000000000     0x1380
+ .debug_frame   0x0000000000000000       0x68 common/io.o
+ .debug_frame   0x0000000000000068       0xf0 common/printf.o
+ .debug_frame   0x0000000000000158       0x30 common/startup.o
+ .debug_frame   0x0000000000000188      0x210 common/stdlib.o
+ .debug_frame   0x0000000000000398       0xc8 cpu/arm_cm0.o
+ .debug_frame   0x0000000000000460       0x68 cpu/start.o
+ .debug_frame   0x00000000000004c8       0x68 cpu/sysinit.o
+ .debug_frame   0x0000000000000530       0x88 cpu/vectors.o
+ .debug_frame   0x00000000000005b8      0x36c drivers/mcg/mcg.o
+ .debug_frame   0x0000000000000924       0x2c drivers/rcm/rcm.o
+ .debug_frame   0x0000000000000950      0x110 drivers/uart/uart.o
+ .debug_frame   0x0000000000000a60       0xf8 src/FRDM_KL25ZDemo.o
+ .debug_frame   0x0000000000000b58       0x8c src/I2C/hal_dev_mma8451.o
+ .debug_frame   0x0000000000000be4      0x1f0 src/I2C/hal_i2c.o
+ .debug_frame   0x0000000000000dd4       0x4c src/angle_calculation/angle_cal.o
+ .debug_frame   0x0000000000000e20       0x30 src/angle_calculation/median.o
+ .debug_frame   0x0000000000000e50       0x30 src/angle_calculation/sqrt16.o
+ .debug_frame   0x0000000000000e80       0x4c src/bsp/bsp_KL25.o
+ .debug_frame   0x0000000000000ecc       0x6c src/freedom_gpio/freedom_gpio.o
+ .debug_frame   0x0000000000000f38       0x48 src/pit/pit.o
+ .debug_frame   0x0000000000000f80       0xdc src/tsi/TSIDrv.o
+ .debug_frame   0x000000000000105c       0x50 src/usb/ring_buffer.o
+ .debug_frame   0x00000000000010ac      0x20c src/usb/usb.o
+ .debug_frame   0x00000000000012b8       0x88 src/usb/usb_cdc.o
+ .debug_frame   0x0000000000001340       0x20 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000001360       0x20 /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ASSERT_FAILED_STR                                 common/assert.o
+AbsoluteDistancePosition                          src/tsi/TSIDrv.o
+AbsolutePercentegePosition                        src/tsi/TSIDrv.o
+                                                  src/FRDM_KL25ZDemo.o
+BufferPointer                                     src/usb/usb.o
+Buffer_Init                                       src/usb/ring_buffer.o
+                                                  src/usb/usb_cdc.o
+Buffer_Request                                    src/usb/ring_buffer.o
+CDC_Engine                                        src/usb/usb_cdc.o
+                                                  src/FRDM_KL25ZDemo.o
+CDC_Init                                          src/usb/usb_cdc.o
+                                                  src/FRDM_KL25ZDemo.o
+CDC_InterfaceReq_Handler                          src/usb/usb_cdc.o
+                                                  src/usb/usb.o
+CDC_OUT_Data                                      src/usb/usb_cdc.o
+Configuration_Descriptor                          src/usb/usb.o
+Device_Descriptor                                 src/usb/usb.o
+Device_Qualifier                                  src/usb/usb.o
+EP_IN_Transfer                                    src/usb/usb.o
+                                                  src/usb/usb_cdc.o
+                                                  src/FRDM_KL25ZDemo.o
+EP_OUT_Transfer                                   src/usb/usb.o
+                                                  src/usb/usb_cdc.o
+HELPMSG                                           common/uif.o
+INVALUE                                           common/uif.o
+INVARG                                            common/uif.o
+LVD_Init                                          drivers/pmc/pmc.o
+LVD_Initalize                                     drivers/pmc/pmc.o
+LWordSwap                                         src/usb/usb_cdc.o
+LineCoding                                        src/usb/usb_cdc.o
+NumStrings                                        src/FRDM_KL25ZDemo.o
+OUT_EndAddress                                    src/usb/ring_buffer.o
+OUT_SciPointer                                    src/usb/ring_buffer.o
+OUT_StartAddress                                  src/usb/ring_buffer.o
+OUT_UsbPointer                                    src/usb/ring_buffer.o
+Pit1_isrv                                         src/pit/pit.o
+                                                  cpu/vectors.o
+Pit_init                                          src/pit/pit.o
+                                                  src/FRDM_KL25ZDemo.o
+SER_GetChar                                       drivers/uart/Serial.o
+SER_PutChar                                       drivers/uart/Serial.o
+SRTC_ISR                                          cpu/vectors.o
+Setup_Pkt                                         src/usb/usb.o
+                                                  src/usb/usb_cdc.o
+SliderDistancePosition                            src/tsi/TSIDrv.o
+SliderPercentegePosition                          src/tsi/TSIDrv.o
+String_Descriptor0                                src/usb/usb.o
+String_Descriptor1                                src/usb/usb.o
+String_Descriptor2                                src/usb/usb.o
+String_Descriptor3                                src/usb/usb.o
+String_Table                                      src/usb/usb.o
+SystemCoreClock                                   cpu/system_MKL25Z4.o
+SystemCoreClockUpdate                             cpu/system_MKL25Z4.o
+SystemInit                                        cpu/system_MKL25Z4.o
+TPM_init                                          src/FRDM_KL25ZDemo.o
+TSI_ISR                                           src/tsi/TSIDrv.o
+                                                  cpu/vectors.o
+TSI_Init                                          src/tsi/TSIDrv.o
+                                                  src/FRDM_KL25ZDemo.o
+TSI_SelfCalibration                               src/tsi/TSIDrv.o
+TSI_SimpleApp                                     src/tsi/TSIDrv.o
+TSI_SliderApp                                     src/tsi/TSIDrv.o
+TSI_SliderRead                                    src/tsi/TSIDrv.o
+                                                  src/FRDM_KL25ZDemo.o
+UIF_CMDTAB                                        common/uif.o
+UIF_NUM_CMD                                       common/uif.o
+UIF_NUM_SETCMD                                    common/uif.o
+UIF_SETCMDTAB                                     common/uif.o
+USBReg_Testing                                    src/usb/usb_reg.o
+USB_EP0_IN_Handler                                src/usb/usb.o
+USB_EP0_OUT_Handler                               src/usb/usb.o
+USB_EP0_Stall                                     src/usb/usb.o
+USB_EP_OUT_SizeCheck                              src/usb/usb.o
+                                                  src/FRDM_KL25ZDemo.o
+USB_Endpoint_Setup_Handler                        src/usb/usb.o
+USB_Handler                                       src/usb/usb.o
+USB_ISR                                           src/usb/usb.o
+                                                  cpu/vectors.o
+USB_Init                                          src/usb/usb.o
+                                                  src/usb/usb_cdc.o
+USB_Reset_Handler                                 src/usb/usb.o
+USB_Set_Interface                                 src/usb/usb.o
+USB_Setup_Handler                                 src/usb/usb.o
+USB_Stall_Handler                                 src/usb/usb.o
+USB_StdReq_Handler                                src/usb/usb.o
+USB_Testing_Read_Registers                        src/usb/usb.o
+USB_Testing_Write_Registers                       src/usb/usb.o
+X_acc                                             src/angle_calculation/angle_cal.o
+Y_acc                                             src/angle_calculation/angle_cal.o
+Z_acc                                             src/angle_calculation/angle_cal.o
+__BOOT_STACK_ADDRESS                              cpu/vectors.o
+__HEAP_END                                        common/alloc.o
+__HEAP_START                                      common/alloc.o
+__VECTOR_RAM                                      src/usb/usb.o
+                                                  common/startup.o
+__VECTOR_TABLE                                    common/startup.o
+__aeabi_cfcmpeq                                   /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__aeabi_cfcmple                                   /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__aeabi_cfrcmple                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__aeabi_f2iz                                      /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(fixsfsi.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+__aeabi_f2uiz                                     /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+                                                  drivers/mcg/mcg.o
+__aeabi_fcmpeq                                    /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmpge                                    /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+__aeabi_fcmpgt                                    /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmple                                    /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmplt                                    /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fdiv                                      /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+                                                  drivers/mcg/mcg.o
+__aeabi_fmul                                      /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+                                                  drivers/mcg/mcg.o
+__aeabi_fsub                                      /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+__aeabi_i2f                                       /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+                                                  drivers/mcg/mcg.o
+__aeabi_idiv                                      /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+                                                  src/tsi/TSIDrv.o
+                                                  drivers/uart/uart.o
+                                                  drivers/mcg/mcg.o
+                                                  cpu/sysinit.o
+                                                  common/printf.o
+__aeabi_idiv0                                     /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+__aeabi_idivmod                                   /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+__aeabi_ldiv0                                     /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+                                                  src/angle_calculation/sqrt16.o
+                                                  src/angle_calculation/angle_cal.o
+                                                  drivers/uart/uart.o
+                                                  drivers/mcg/mcg.o
+                                                  cpu/system_MKL25Z4.o
+                                                  cpu/sysinit.o
+                                                  common/printf.o
+__aeabi_uidivmod                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+__clzsi2                                          /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_clzsi2.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(floatsisf.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(subsf3.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(mulsf3.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(divsf3.o)
+__deregister_frame_info                           /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+__divsi3                                          /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_divsi3.o)
+__dso_handle                                      /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+__eqsf2                                           /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__fixunssfsi                                      /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_fixunssfsi.o)
+__gesf2                                           /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__gtsf2                                           /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(gesf2.o)
+__lesf2                                           /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+                                                  /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_arm_cmpsf2.o)
+__ltsf2                                           /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(lesf2.o)
+__nesf2                                           /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(eqsf2.o)
+__register_frame_info                             /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crtbegin.o
+__udivsi3                                         /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/libgcc.a(_udivsi3.o)
+__vector_table                                    cpu/vectors.o
+_ebss                                             common/startup.o
+_edata                                            common/startup.o
+_estack                                           common/startup.o
+_fini                                             /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+_init                                             /opt/Atollic_TrueSTUDIO_for_ARM_x86_64_8.1.0/ARMTools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv6-m/crti.o
+_sbss                                             common/startup.o
+_sdata                                            common/startup.o
+_sidata                                           common/startup.o
+abort_isr                                         cpu/vectors.o
+accel_demo                                        src/FRDM_KL25ZDemo.o
+accel_init                                        src/FRDM_KL25ZDemo.o
+accel_read                                        src/FRDM_KL25ZDemo.o
+accel_x                                           src/FRDM_KL25ZDemo.o
+accel_y                                           src/FRDM_KL25ZDemo.o
+accel_z                                           src/FRDM_KL25ZDemo.o
+adc_sample                                        src/global.o
+angle_calculation                                 src/angle_calculation/angle_cal.o
+                                                  src/FRDM_KL25ZDemo.o
+arr_medianas                                      src/angle_calculation/angle_cal.o
+asin                                              src/angle_calculation/asin.o
+                                                  src/angle_calculation/angle_cal.o
+assert_failed                                     common/assert.o
+atc                                               drivers/mcg/mcg.o
+aux1                                              src/FRDM_KL25ZDemo.o
+base_time125m                                     src/global.o
+                                                  src/pit/pit.o
+blpe_fbe                                          drivers/mcg/mcg.o
+blpe_pbe                                          drivers/mcg/mcg.o
+blpi_fbi                                          drivers/mcg/mcg.o
+cEP_Size                                          src/usb/usb.o
+cat                                               src/angle_calculation/angle_cal.o
+change_electrode                                  src/tsi/TSIDrv.o
+char_present                                      common/io.o
+clk_monitor_0                                     drivers/mcg/mcg.o
+clk_out_init                                      cpu/sysinit.o
+cmp0_isr                                          drivers/cmp/cmp.o
+cmp_init                                          drivers/cmp/cmp.o
+common_startup                                    common/startup.o
+                                                  cpu/start.o
+core_clk_khz                                      cpu/sysinit.o
+cpu_identify                                      cpu/start.o
+deepsleep                                         drivers/smc/smc.o
+default_isr                                       cpu/vectors.o
+detect_fall_detection                             src/angle_calculation/angle_cal.o
+                                                  src/FRDM_KL25ZDemo.o
+disable_irq                                       cpu/arm_cm0.o
+                                                  drivers/rtc/rtc.o
+dmx32_val                                         drivers/mcg/mcg.o
+drs_val                                           drivers/mcg/mcg.o
+elec_array                                        src/tsi/TSIDrv.o
+enable_NMI_button                                 cpu/nmi_isr_handler.o
+enable_abort_button                               cpu/sysinit.o
+enable_irq                                        cpu/arm_cm0.o
+                                                  src/usb/usb.o
+                                                  src/tsi/TSIDrv.o
+                                                  src/pit/pit.o
+                                                  drivers/rtc/rtc.o
+                                                  cpu/sysinit.o
+end_flag                                          src/tsi/TSIDrv.o
+enter_lls                                         drivers/smc/smc.o
+enter_stop                                        drivers/smc/smc.o
+enter_vlls0                                       drivers/smc/smc.o
+enter_vlls0_nopor                                 drivers/smc/smc.o
+enter_vlls1                                       drivers/smc/smc.o
+enter_vlls2                                       drivers/smc/smc.o
+enter_vlls3                                       drivers/smc/smc.o
+enter_vlpr                                        drivers/smc/smc.o
+enter_vlps                                        drivers/smc/smc.o
+enter_wait                                        drivers/smc/smc.o
+exit_vlpr                                         drivers/smc/smc.o
+fall_input                                        src/angle_calculation/angle_cal.o
+fbe_blpe                                          drivers/mcg/mcg.o
+fbe_fbi                                           drivers/mcg/mcg.o
+fbe_fee                                           drivers/mcg/mcg.o
+fbe_fei                                           drivers/mcg/mcg.o
+fbe_pbe                                           drivers/mcg/mcg.o
+fbi_blpi                                          drivers/mcg/mcg.o
+fbi_fbe                                           drivers/mcg/mcg.o
+fbi_fee                                           drivers/mcg/mcg.o
+fbi_fei                                           drivers/mcg/mcg.o
+fee_fbe                                           drivers/mcg/mcg.o
+fee_fbi                                           drivers/mcg/mcg.o
+fee_fei                                           drivers/mcg/mcg.o
+fei_fbe                                           drivers/mcg/mcg.o
+fei_fbi                                           drivers/mcg/mcg.o
+fei_fee                                           drivers/mcg/mcg.o
+flash_identify                                    cpu/start.o
+fll_freq                                          drivers/mcg/mcg.o
+fll_init                                          src/bsp/bsp_KL25.o
+free                                              common/alloc.o
+get_line                                          common/uif.o
+get_value                                         common/uif.o
+gpio_init                                         src/freedom_gpio/freedom_gpio.o
+                                                  src/FRDM_KL25ZDemo.o
+gu16Baseline                                      src/tsi/TSIDrv.o
+gu16Delta                                         src/tsi/TSIDrv.o
+gu16TSICount                                      src/tsi/TSIDrv.o
+gu16Threshold                                     src/tsi/TSIDrv.o
+gu8BufferMaxSize                                  src/usb/ring_buffer.o
+gu8BufferOverFlow                                 src/usb/ring_buffer.o
+gu8Dummy                                          src/usb/usb.o
+gu8EP0_IN_EVEN_Buffer                             src/usb/usb.o
+gu8EP0_IN_ODD_Buffer                              src/usb/usb.o
+gu8EP0_OUT_EVEN_Buffer                            src/usb/usb.o
+gu8EP0_OUT_ODD_Buffer                             src/usb/usb.o
+gu8EP1_IN_EVEN_Buffer                             src/usb/usb.o
+gu8EP1_IN_ODD_Buffer                              src/usb/usb.o
+gu8EP1_OUT_EVEN_Buffer                            src/usb/usb.o
+gu8EP1_OUT_ODD_Buffer                             src/usb/usb.o
+gu8EP2_IN_EVEN_Buffer                             src/usb/usb.o
+gu8EP2_IN_ODD_Buffer                              src/usb/usb.o
+gu8EP2_OUT_EVEN_Buffer                            src/usb/usb.o
+gu8EP2_OUT_ODD_Buffer                             src/usb/usb.o
+gu8EP3_IN_EVEN_Buffer                             src/usb/usb.o
+gu8EP3_IN_ODD_Buffer                              src/usb/usb.o
+gu8EP3_OUT_EVEN_Buffer                            src/usb/usb.o
+gu8EP3_OUT_ODD_Buffer                             src/usb/usb.o
+                                                  src/FRDM_KL25ZDemo.o
+gu8HALT_EP                                        src/usb/usb.o
+gu8IN_Counter                                     src/usb/usb.o
+gu8Interface                                      src/usb/usb.o
+                                                  src/usb/usb_cdc.o
+gu8Status                                         src/usb/usb.o
+gu8USBClearFlags                                  src/usb/usb.o
+gu8USB_Buffer                                     src/FRDM_KL25ZDemo.o
+gu8USB_Flags                                      src/usb/usb.o
+                                                  src/usb/usb_cdc.o
+                                                  src/FRDM_KL25ZDemo.o
+gu8USB_PingPong_flags                             src/usb/usb.o
+gu8USB_State                                      src/usb/usb.o
+                                                  src/usb/usb_cdc.o
+                                                  src/FRDM_KL25ZDemo.o
+gu8USB_Toogle_flags                               src/usb/usb.o
+hal_dev_mma8451_init                              src/I2C/hal_dev_mma8451.o
+                                                  src/FRDM_KL25ZDemo.o
+hal_dev_mma8451_read_reg                          src/I2C/hal_dev_mma8451.o
+                                                  src/FRDM_KL25ZDemo.o
+hal_dev_mma8451_write_reg                         src/I2C/hal_dev_mma8451.o
+                                                  src/FRDM_KL25ZDemo.o
+hal_i2c_deinit                                    src/I2C/hal_i2c.o
+hal_i2c_init                                      src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+hard_fault_handler_c                              cpu/vectors.o
+i                                                 drivers/pmc/pmc.o
+i2c_get_ack                                       src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_give_ack                                      src/I2C/hal_i2c.o
+i2c_give_nack                                     src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_read_byte                                     src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_repeated_start                                src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_set_master_mode                               src/I2C/hal_i2c.o
+i2c_set_rx_mode                                   src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_set_slave_mode                                src/I2C/hal_i2c.o
+i2c_set_tx_mode                                   src/I2C/hal_i2c.o
+i2c_start                                         src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_stop                                          src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_wait                                          src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+i2c_write_byte                                    src/I2C/hal_i2c.o
+                                                  src/I2C/hal_dev_mma8451.o
+in_char                                           common/io.o
+                                                  src/usb/usb_reg.o
+                                                  common/uif.o
+input_fall                                        src/freedom_gpio/freedom_gpio.o
+input_rise                                        src/freedom_gpio/freedom_gpio.o
+isalnum                                           common/stdlib.o
+isdigit                                           common/stdlib.o
+isspace                                           common/stdlib.o
+isupper                                           common/stdlib.o
+llwu_configure                                    drivers/llwu/llwu.o
+llwu_configure_filter                             drivers/llwu/llwu.o
+llwu_isr                                          drivers/llwu/llwu.o
+lptmr_init                                        drivers/lptmr/lptmr.o
+lptmr_isr                                         drivers/lptmr/lptmr.o
+main                                              src/FRDM_KL25ZDemo.o
+                                                  cpu/start.o
+make_argv                                         common/uif.o
+malloc                                            common/alloc.o
+mcg_clk_hz                                        cpu/sysinit.o
+mcg_clk_khz                                       cpu/sysinit.o
+median                                            src/angle_calculation/median.o
+                                                  src/angle_calculation/angle_cal.o
+memTestAddressBus                                 common/memtest.o
+memTestDataBus                                    common/memtest.o
+memTestDevice                                     common/memtest.o
+memcpy                                            common/stdlib.o
+memset                                            common/stdlib.o
+nmi_isr                                           cpu/nmi_isr_handler.o
+offset                                            src/angle_calculation/angle_cal.o
+ongoing_elec                                      src/tsi/TSIDrv.o
+outSRS                                            drivers/rcm/rcm.o
+                                                  cpu/start.o
+out_char                                          common/io.o
+                                                  common/uif.o
+                                                  common/printf.o
+pbe_blpe                                          drivers/mcg/mcg.o
+pbe_fbe                                           drivers/mcg/mcg.o
+pbe_pee                                           drivers/mcg/mcg.o
+pee_pbe                                           drivers/mcg/mcg.o
+periph_clk_khz                                    cpu/sysinit.o
+pit1_isrv_count                                   src/global.o
+pll_clk_khz                                       cpu/sysinit.o
+pll_init                                          drivers/mcg/mcg.o
+                                                  cpu/sysinit.o
+pmc_lvd_isr                                       drivers/pmc/pmc.o
+printf                                            common/printf.o
+                                                  src/usb/usb_reg.o
+                                                  src/usb/usb.o
+                                                  src/tsi/TSIDrv.o
+                                                  src/FRDM_KL25ZDemo.o
+                                                  drivers/rtc/rtc.o
+                                                  drivers/rcm/rcm.o
+                                                  drivers/pmc/pmc.o
+                                                  drivers/lptmr/lptmr.o
+                                                  drivers/llwu/llwu.o
+                                                  drivers/cmp/cmp.o
+                                                  cpu/vectors.o
+                                                  cpu/start.o
+                                                  cpu/arm_cm0.o
+                                                  common/uif.o
+                                                  common/assert.o
+printk                                            common/printf.o
+ptr_next_task                                     src/task_mgr/task_mgr.o
+                                                  src/FRDM_KL25ZDemo.o
+pu8IN_DataPointer                                 src/usb/usb.o
+queue_add                                         common/queue.o
+queue_init                                        common/queue.o
+queue_isempty                                     common/queue.o
+queue_move                                        common/queue.o
+queue_peek                                        common/queue.o
+queue_remove                                      common/queue.o
+resp_ptr_next_task                                src/task_mgr/task_mgr.o
+resultx                                           src/FRDM_KL25ZDemo.o
+                                                  src/angle_calculation/angle_cal.o
+resulty                                           src/FRDM_KL25ZDemo.o
+                                                  src/angle_calculation/angle_cal.o
+resultz                                           src/FRDM_KL25ZDemo.o
+                                                  src/angle_calculation/angle_cal.o
+rtc_init                                          drivers/rtc/rtc.o
+rtc_isr                                           drivers/rtc/rtc.o
+rtc_reg_report                                    drivers/rtc/rtc.o
+run_cmd                                           common/uif.o
+set_irq_priority                                  cpu/arm_cm0.o
+sleep                                             drivers/smc/smc.o
+sprintf                                           common/printf.o
+                                                  src/FRDM_KL25ZDemo.o
+sqrt_16                                           src/angle_calculation/sqrt16.o
+                                                  src/angle_calculation/angle_cal.o
+start                                             cpu/start.o
+                                                  cpu/vectors.o
+stop                                              cpu/arm_cm0.o
+                                                  drivers/smc/smc.o
+strcasecmp                                        common/stdlib.o
+                                                  common/uif.o
+strcat                                            common/stdlib.o
+strcmp                                            common/stdlib.o
+strcpy                                            common/stdlib.o
+                                                  common/uif.o
+string0                                           src/FRDM_KL25ZDemo.o
+string1                                           src/FRDM_KL25ZDemo.o
+string2                                           src/FRDM_KL25ZDemo.o
+string3                                           src/FRDM_KL25ZDemo.o
+string4                                           src/FRDM_KL25ZDemo.o
+strings                                           src/FRDM_KL25ZDemo.o
+strlen                                            common/stdlib.o
+                                                  common/printf.o
+strncasecmp                                       common/stdlib.o
+strncat                                           common/stdlib.o
+strncmp                                           common/stdlib.o
+strncpy                                           common/stdlib.o
+strtoul                                           common/stdlib.o
+                                                  common/uif.o
+sysinit                                           cpu/sysinit.o
+                                                  cpu/start.o
+tBDTtable                                         src/usb/usb.o
+                                                  src/FRDM_KL25ZDemo.o
+ti_accel_sampling                                 src/global.o
+                                                  src/pit/pit.o
+                                                  src/FRDM_KL25ZDemo.o
+ti_console                                        src/global.o
+ti_delay                                          src/global.o
+                                                  src/pit/pit.o
+ti_fall                                           src/global.o
+                                                  src/angle_calculation/angle_cal.o
+ti_led                                            src/global.o
+ti_print                                          src/global.o
+                                                  src/pit/pit.o
+                                                  src/FRDM_KL25ZDemo.o
+ti_task                                           src/global.o
+                                                  src/pit/pit.o
+                                                  src/FRDM_KL25ZDemo.o
+ti_test_adc                                       src/global.o
+ti_tsi0                                           src/global.o
+ti_tsi1                                           src/global.o
+time_delay_ms                                     drivers/lptmr/lptmr.o
+total_electrode                                   src/tsi/TSIDrv.o
+u8CDCState                                        src/usb/usb_cdc.o
+uart0_clk_khz                                     cpu/sysinit.o
+uart0_getchar                                     drivers/uart/uart.o
+                                                  drivers/uart/Serial.o
+                                                  common/io.o
+uart0_getchar_present                             drivers/uart/uart.o
+                                                  common/io.o
+uart0_init                                        drivers/uart/uart.o
+                                                  cpu/sysinit.o
+uart0_putchar                                     drivers/uart/uart.o
+                                                  drivers/uart/Serial.o
+                                                  common/io.o
+uart_getchar                                      drivers/uart/uart.o
+uart_getchar_present                              drivers/uart/uart.o
+uart_init                                         drivers/uart/uart.o
+uart_putchar                                      drivers/uart/uart.o
+uif_cmd_help                                      common/uif.o
+uif_cmd_set                                       common/uif.o
+uif_cmd_show                                      common/uif.o
+usb_init                                          src/FRDM_KL25ZDemo.o
+usb_service                                       src/FRDM_KL25ZDemo.o
+vfnInitUSBClock                                   src/bsp/bsp_KL25.o
+                                                  src/usb/usb.o
+vfn_rgb_test                                      src/FRDM_KL25ZDemo.o
+wait                                              cpu/arm_cm0.o
+                                                  drivers/smc/smc.o
+what_mcg_mode                                     drivers/mcg/mcg.o
+write_vtor                                        cpu/arm_cm0.o
+                                                  common/startup.o
+xy_angle                                          src/angle_calculation/angle_cal.o
+                                                  src/FRDM_KL25ZDemo.o
+xy_mag                                            src/angle_calculation/angle_cal.o
+                                                  src/FRDM_KL25ZDemo.o
+xz_angle                                          src/angle_calculation/angle_cal.o
+                                                  src/FRDM_KL25ZDemo.o
+xz_mag                                            src/angle_calculation/angle_cal.o
+yz_angle                                          src/angle_calculation/angle_cal.o
+                                                  src/FRDM_KL25ZDemo.o
+yz_mag                                            src/angle_calculation/angle_cal.o

@@ -1,0 +1,3 @@
+freedom_gpio.c:29:7:gpio_init	8	static
+freedom_gpio.c:83:6:input_rise	24	static
+freedom_gpio.c:98:6:input_fall	24	static

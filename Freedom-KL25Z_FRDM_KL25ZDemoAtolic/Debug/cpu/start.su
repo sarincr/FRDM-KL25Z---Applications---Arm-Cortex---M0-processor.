@@ -1,0 +1,3 @@
+start.c:21:6:start	8	static
+start.c:67:6:cpu_identify	16	static
+start.c:225:6:flash_identify	8	static

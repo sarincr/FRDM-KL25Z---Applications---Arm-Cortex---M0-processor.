@@ -1,0 +1,7 @@
+printf.c:68:1:printk_putc	24	static
+printf.c:87:1:printk_mknumstr	56	static
+printf.c:157:1:printk_pad_zero	32	static
+printf.c:169:1:printk_pad_space	32	static
+printf.c:181:1:printk	120	static
+printf.c:565:1:printf	32	static
+printf.c:588:1:sprintf	44	static
