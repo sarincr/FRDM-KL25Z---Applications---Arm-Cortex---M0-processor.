@@ -1,0 +1,17 @@
+usb.c:95:6:USB_Testing_Read_Registers	24	static
+usb.c:138:6:USB_Testing_Write_Registers	16	static
+usb.c:171:6:USB_Init	8	static
+usb.c:222:6:EP_IN_Transfer	32	static
+usb.c:290:7:EP_OUT_Transfer	24	static
+usb.c:312:8:USB_EP_OUT_SizeCheck	24	static
+usb.c:321:6:USB_Set_Interface	8	static
+usb.c:350:6:USB_StdReq_Handler	8	static
+usb.c:408:6:USB_Setup_Handler	24	static
+usb.c:451:6:USB_Endpoint_Setup_Handler	16	static
+usb.c:483:6:USB_Handler	16	static
+usb.c:522:6:USB_EP0_IN_Handler	8	static
+usb.c:535:6:USB_EP0_Stall	8	static
+usb.c:546:6:USB_EP0_OUT_Handler	8	static
+usb.c:558:6:USB_Stall_Handler	8	static
+usb.c:567:6:USB_Reset_Handler	8	static
+usb.c:628:6:USB_ISR	8	static

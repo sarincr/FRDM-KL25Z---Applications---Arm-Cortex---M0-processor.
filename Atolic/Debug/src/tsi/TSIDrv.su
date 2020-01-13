@@ -1,0 +1,7 @@
+TSIDrv.c:26:6:TSI_SelfCalibration	16	static
+TSIDrv.c:68:6:TSI_Init	8	static
+TSIDrv.c:96:6:change_electrode	16	static
+TSIDrv.c:117:6:TSI_SimpleApp	8	static
+TSIDrv.c:135:6:TSI_SliderApp	8	static
+TSIDrv.c:182:6:TSI_SliderRead	8	static
+TSIDrv.c:217:6:TSI_ISR	8	static

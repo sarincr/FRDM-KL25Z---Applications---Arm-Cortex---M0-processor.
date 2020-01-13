@@ -1,0 +1,3 @@
+rtc.c:35:6:rtc_init	32	static
+rtc.c:110:6:rtc_reg_report	8	static
+rtc.c:121:6:rtc_isr	8	static

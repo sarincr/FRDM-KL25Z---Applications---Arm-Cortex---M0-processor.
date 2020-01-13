@@ -1,0 +1,8 @@
+uart.c:26:6:uart_init	40	static
+uart.c:69:6:uart_getchar	16	static
+uart.c:85:6:uart_putchar	16	static
+uart.c:105:5:uart_getchar_present	16	static
+uart.c:128:6:uart0_init	64	static
+uart.c:262:6:uart0_getchar	16	static
+uart.c:278:6:uart0_putchar	16	static
+uart.c:298:5:uart0_getchar_present	16	static
