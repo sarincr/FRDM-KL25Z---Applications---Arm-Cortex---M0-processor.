@@ -1,2 +1,0 @@
-nmi_isr_handler.c:15:6:nmi_isr	16	static
-nmi_isr_handler.c:31:6:enable_NMI_button	8	static

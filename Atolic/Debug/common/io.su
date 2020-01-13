@@ -1,3 +1,0 @@
-io.c:13:1:in_char	8	static
-io.c:25:1:out_char	16	static
-io.c:38:1:char_present	8	static

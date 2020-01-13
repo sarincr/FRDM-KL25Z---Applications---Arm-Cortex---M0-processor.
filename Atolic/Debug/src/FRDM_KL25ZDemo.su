@@ -1,8 +1,0 @@
-FRDM_KL25ZDemo.c:68:6:usb_init	8	static
-FRDM_KL25ZDemo.c:78:6:usb_service	8	static
-FRDM_KL25ZDemo.c:99:6:accel_init	24	static
-FRDM_KL25ZDemo.c:109:6:accel_read	8	static
-FRDM_KL25ZDemo.c:142:6:accel_demo	8	static
-FRDM_KL25ZDemo.c:177:6:TPM_init	8	static
-FRDM_KL25ZDemo.c:207:6:vfn_rgb_test	8	static
-FRDM_KL25ZDemo.c:267:5:main	16	static

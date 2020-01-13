@@ -1,3 +1,0 @@
-sysinit.c:28:6:sysinit	16	static
-sysinit.c:174:6:enable_abort_button	8	static
-sysinit.c:188:6:clk_out_init	8	static

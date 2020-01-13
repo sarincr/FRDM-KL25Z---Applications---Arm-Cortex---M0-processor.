@@ -1,2 +1,0 @@
-ring_buffer.c:15:6:Buffer_Init	16	static
-ring_buffer.c:28:7:Buffer_Request	24	static

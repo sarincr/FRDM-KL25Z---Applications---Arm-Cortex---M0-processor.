@@ -1,2 +1,0 @@
-Serial.c:35:9:SER_PutChar	16	static
-Serial.c:65:9:SER_GetChar	8	static

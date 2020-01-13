@@ -1,4 +1,0 @@
-vectors.c:290:6:default_isr	8	static
-vectors.c:303:6:abort_isr	8	static
-vectors.c:317:1:hard_fault_handler_c	48	static
-vectors.c:357:6:SRTC_ISR	16	static

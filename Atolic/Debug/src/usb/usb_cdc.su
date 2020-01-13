@@ -1,4 +1,0 @@
-usb_cdc.c:25:6:CDC_Init	8	static
-usb_cdc.c:48:6:CDC_Engine	8	static
-usb_cdc.c:94:7:CDC_InterfaceReq_Handler	16	static
-usb_cdc.c:132:8:LWordSwap	24	static

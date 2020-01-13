@@ -1,2 +1,0 @@
-bsp_KL25.c:6:6:vfnInitUSBClock	16	static
-bsp_KL25.c:43:6:fll_init	8	static

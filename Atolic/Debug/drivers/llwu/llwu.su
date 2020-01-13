@@ -1,3 +1,0 @@
-llwu.c:45:6:llwu_configure	24	static
-llwu.c:155:6:llwu_configure_filter	24	static
-llwu.c:188:6:llwu_isr	8	static

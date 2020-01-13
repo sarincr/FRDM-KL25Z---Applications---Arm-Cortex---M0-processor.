@@ -1,4 +1,0 @@
-hal_dev_mma8451.c:11:6:hal_dev_mma8451_init	8	static
-hal_dev_mma8451.c:20:13:pause	16	static
-hal_dev_mma8451.c:26:7:hal_dev_mma8451_read_reg	32	static
-hal_dev_mma8451.c:56:6:hal_dev_mma8451_write_reg	16	static

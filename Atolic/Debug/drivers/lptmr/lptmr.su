@@ -1,3 +1,0 @@
-lptmr.c:31:6:time_delay_ms	16	static
-lptmr.c:57:6:lptmr_isr	8	static
-lptmr.c:77:6:lptmr_init	16	static

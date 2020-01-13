@@ -1,2 +1,0 @@
-alloc.c:39:1:free	24	static
-alloc.c:77:1:malloc	32	static

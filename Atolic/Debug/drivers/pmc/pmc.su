@@ -1,3 +1,0 @@
-pmc.c:27:6:LVD_Initalize	24	static
-pmc.c:41:6:LVD_Init	8	static
-pmc.c:77:6:pmc_lvd_isr	8	static
